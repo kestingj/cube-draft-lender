@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="125749" Quantity="1" Sideboard="false" Name="Nadu, Winged Wisdom" Annotation="0"/>
+  <Cards CatID="142997" Quantity="1" Sideboard="false" Name="Icetill Explorer" Annotation="0"/>
+  <Cards CatID="36408" Quantity="1" Sideboard="false" Name="Joraga Treespeaker" Annotation="0"/>
+  <Cards CatID="35629" Quantity="1" Sideboard="false" Name="Terastodon" Annotation="0"/>
+  <Cards CatID="112248" Quantity="1" Sideboard="false" Name="Generous Ent" Annotation="0"/>
+  <Cards CatID="71366" Quantity="1" Sideboard="false" Name="Hydroid Krasis" Annotation="0"/>
+  <Cards CatID="109930" Quantity="1" Sideboard="false" Name="Faerie Mastermind" Annotation="0"/>
+  <Cards CatID="38185" Quantity="1" Sideboard="false" Name="Wurmcoil Engine" Annotation="0"/>
+  <Cards CatID="39549" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" Annotation="0"/>
+  <Cards CatID="41611" Quantity="1" Sideboard="false" Name="Grim Lavamancer" Annotation="0"/>
+  <Cards CatID="62795" Quantity="1" Sideboard="false" Name="Rishkar, Peema Renegade" Annotation="0"/>
+  <Cards CatID="130143" Quantity="1" Sideboard="false" Name="Enduring Innocence" Annotation="0"/>
+  <Cards CatID="90899" Quantity="1" Sideboard="false" Name="Urza&apos;s Saga" Annotation="0"/>
+  <Cards CatID="40629" Quantity="1" Sideboard="false" Name="Edric, Spymaster of Trest" Annotation="0"/>
+  <Cards CatID="26081" Quantity="1" Sideboard="false" Name="Wall of Roots" Annotation="0"/>
+  <Cards CatID="94832" Quantity="1" Sideboard="false" Name="Bloodtithe Harvester" Annotation="0"/>
+  <Cards CatID="12551" Quantity="1" Sideboard="false" Name="Grim Monolith" Annotation="0"/>
+  <Cards CatID="123360" Quantity="1" Sideboard="false" Name="Carnage Interpreter" Annotation="0"/>
+  <Cards CatID="50304" Quantity="1" Sideboard="false" Name="Elspeth, Sun&apos;s Champion" Annotation="0"/>
+  <Cards CatID="125399" Quantity="1" Sideboard="false" Name="Sandstorm Salvager" Annotation="0"/>
+  <Cards CatID="33920" Quantity="1" Sideboard="false" Name="Channel" Annotation="0"/>
+  <Cards CatID="32064" Quantity="1" Sideboard="false" Name="Faith&apos;s Fetters" Annotation="0"/>
+  <Cards CatID="114789" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" Annotation="0"/>
+  <Cards CatID="96994" Quantity="1" Sideboard="false" Name="Touch the Spirit Realm" Annotation="0"/>
+  <Cards CatID="96980" Quantity="1" Sideboard="false" Name="The Restoration of Eiganjo // Architect of Restoration" Annotation="0"/>
+  <Cards CatID="106875" Quantity="1" Sideboard="false" Name="Glimmer Lens" Annotation="0"/>
+  <Cards CatID="19029" Quantity="1" Sideboard="false" Name="Mana Leak" Annotation="0"/>
+  <Cards CatID="78460" Quantity="1" Sideboard="false" Name="The Great Henge" Annotation="0"/>
+  <Cards CatID="18245" Quantity="1" Sideboard="false" Name="Flooded Strand" Annotation="0"/>
+  <Cards CatID="122016" Quantity="1" Sideboard="false" Name="Hedge Maze" Annotation="0"/>
+  <Cards CatID="72860" Quantity="1" Sideboard="false" Name="Prismatic Vista" Annotation="0"/>
+  <Cards CatID="37629" Quantity="1" Sideboard="false" Name="Memory Jar" Annotation="0"/>
+  <Cards CatID="34942" Quantity="1" Sideboard="false" Name="Garruk Wildspeaker" Annotation="0"/>
+  <Cards CatID="88511" Quantity="1" Sideboard="false" Name="Elite Spellbinder" Annotation="0"/>
+  <Cards CatID="125811" Quantity="1" Sideboard="false" Name="Ocelot Pride" Annotation="0"/>
+  <Cards CatID="115315" Quantity="1" Sideboard="false" Name="Mystic Confluence" Annotation="0"/>
+  <Cards CatID="108029" Quantity="1" Sideboard="false" Name="Maze of Ith" Annotation="0"/>
+  <Cards CatID="98733" Quantity="1" Sideboard="false" Name="Spara&apos;s Headquarters" Annotation="0"/>
+  <Cards CatID="124783" Quantity="1" Sideboard="false" Name="Dire Fleet Daredevil" Annotation="0"/>
+  <Cards CatID="130843" Quantity="1" Sideboard="false" Name="Arcane Denial" Annotation="0"/>
+  <Cards CatID="98515" Quantity="1" Sideboard="false" Name="Gala Greeters" Annotation="0"/>
+  <Cards CatID="108031" Quantity="1" Sideboard="false" Name="Mishra&apos;s Factory" Annotation="0"/>
+  <Cards CatID="80461" Quantity="1" Sideboard="false" Name="Lurrus of the Dream-Den" Annotation="0"/>
+  <Cards CatID="52853" Quantity="1" Sideboard="false" Name="Strip Mine" Annotation="0"/>
+  <Cards CatID="72722" Quantity="1" Sideboard="false" Name="Regrowth" Annotation="0"/>
+</Deck>

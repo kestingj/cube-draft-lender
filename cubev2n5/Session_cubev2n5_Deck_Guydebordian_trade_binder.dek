@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="36160" Quantity="1" Sideboard="false" Name="Chrome Mox" Annotation="0" />
+  <Cards CatID="125577" Quantity="1" Sideboard="false" Name="Ocelot Pride" Annotation="0" />
+  <Cards CatID="22631" Quantity="1" Sideboard="false" Name="Wrath of God" Annotation="0" />
+  <Cards CatID="61887" Quantity="1" Sideboard="false" Name="Angel of Invention" Annotation="0" />
+  <Cards CatID="106775" Quantity="1" Sideboard="false" Name="Glimmer Lens" Annotation="0" />
+  <Cards CatID="29048" Quantity="1" Sideboard="false" Name="Reveillark" Annotation="0" />
+  <Cards CatID="30238" Quantity="1" Sideboard="false" Name="Figure of Destiny" Annotation="0" />
+  <Cards CatID="90439" Quantity="1" Sideboard="false" Name="Timeless Dragon" Annotation="0" />
+  <Cards CatID="128199" Quantity="1" Sideboard="false" Name="Jacked Rabbit" Annotation="0" />
+  <Cards CatID="130178" Quantity="1" Sideboard="false" Name="Overlord of the Mistmoors" Annotation="0" />
+  <Cards CatID="39996" Quantity="1" Sideboard="false" Name="Blade Splicer" Annotation="0" />
+  <Cards CatID="87065" Quantity="1" Sideboard="false" Name="Feldon of the Third Path" Annotation="0" />
+  <Cards CatID="139159" Quantity="1" Sideboard="false" Name="Cori-Steel Cutter" Annotation="0" />
+  <Cards CatID="72662" Quantity="1" Sideboard="false" Name="Seasoned Pyromancer" Annotation="0" />
+  <Cards CatID="122012" Quantity="1" Sideboard="false" Name="Elegant Parlor" Annotation="0" />
+  <Cards CatID="35737" Quantity="1" Sideboard="false" Name="Stoneforge Mystic" Annotation="0" />
+  <Cards CatID="125251" Quantity="1" Sideboard="false" Name="Legion Extruder" Annotation="0" />
+  <Cards CatID="104942" Quantity="1" Sideboard="false" Name="Mishra's Research Desk" Annotation="0" />
+  <Cards CatID="80475" Quantity="1" Sideboard="false" Name="Zirda, the Dawnwaker" Annotation="0" />
+  <Cards CatID="41315" Quantity="1" Sideboard="false" Name="Inferno Titan" Annotation="0" />
+  <Cards CatID="108053" Quantity="1" Sideboard="false" Name="Enlightened Tutor" Annotation="0" />
+  <Cards CatID="126413" Quantity="1" Sideboard="false" Name="Phlage, Titan of Fire's Fury" Annotation="0" />
+  <Cards CatID="39539" Quantity="1" Sideboard="false" Name="Hero of Bladehold" Annotation="0" />
+  <Cards CatID="126493" Quantity="1" Sideboard="false" Name="Ajani, Nacatl Pariah" Annotation="0" />
+  <Cards CatID="94710" Quantity="1" Sideboard="false" Name="Voldaren Epicure" Annotation="0" />
+  <Cards CatID="96994" Quantity="1" Sideboard="false" Name="Touch the Spirit Realm" Annotation="0" />
+  <Cards CatID="105068" Quantity="1" Sideboard="false" Name="Third Path Iconoclast" Annotation="0" />
+  <Cards CatID="96980" Quantity="1" Sideboard="false" Name="The Restoration of Eiganjo" Annotation="0" />
+  <Cards CatID="133194" Quantity="1" Sideboard="false" Name="Kellan, Planar Trailblazer" Annotation="0" />
+  <Cards CatID="83023" Quantity="1" Sideboard="false" Name="Skyclave Apparition" Annotation="0" />
+  <Cards CatID="121440" Quantity="1" Sideboard="false" Name="Meticulous Archive" Annotation="0" />
+  <Cards CatID="60739" Quantity="1" Sideboard="false" Name="Faithless Looting" Annotation="0" />
+  <Cards CatID="34688" Quantity="1" Sideboard="false" Name="Bloodghast" Annotation="0" />
+  <Cards CatID="26926" Quantity="1" Sideboard="false" Name="Coalition Relic" Annotation="0" />
+  <Cards CatID="112030" Quantity="1" Sideboard="false" Name="Lórien Revealed" Annotation="0" />
+  <Cards CatID="88649" Quantity="1" Sideboard="false" Name="Sedgemoor Witch" Annotation="0" />
+  <Cards CatID="41295" Quantity="1" Sideboard="false" Name="Grave Titan" Annotation="0" />
+  <Cards CatID="124931" Quantity="1" Sideboard="false" Name="The Mimeoplasm" Annotation="0" />
+  <Cards CatID="97482" Quantity="1" Sideboard="false" Name="Boseiju, Who Endures" Annotation="0" />
+  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" Annotation="0" />
+  <Cards CatID="56866" Quantity="1" Sideboard="false" Name="Volrath's Stronghold" Annotation="0" />
+  <Cards CatID="133386" Quantity="1" Sideboard="false" Name="Phyrexian Arena" Annotation="0" />
+  <Cards CatID="134053" Quantity="1" Sideboard="false" Name="Dack Fayden" Annotation="0" />
+  <Cards CatID="92536" Quantity="1" Sideboard="false" Name="Grim Hireling" Annotation="0" />
+  <Cards CatID="42764" Quantity="1" Sideboard="false" Name="Olivia Voldaren" Annotation="0" />
+</Deck>

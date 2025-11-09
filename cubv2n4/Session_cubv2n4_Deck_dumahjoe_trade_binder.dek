@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="54198" Quantity="1" Sideboard="false" Name="Bloodstained Mire" Annotation="0" />
+  <Cards CatID="121910" Quantity="1" Sideboard="false" Name="Lightning Helix" Annotation="0" />
+  <Cards CatID="90870" Quantity="1" Sideboard="false" Name="Arid Mesa" Annotation="0" />
+  <Cards CatID="87619" Quantity="1" Sideboard="false" Name="Magda, Brazen Outlaw" Annotation="0" />
+  <Cards CatID="90616" Quantity="1" Sideboard="false" Name="Dragon's Rage Channeler" Annotation="0" />
+  <Cards CatID="39996" Quantity="1" Sideboard="false" Name="Blade Splicer" Annotation="0" />
+  <Cards CatID="131393" Quantity="1" Sideboard="false" Name="Ursine Monstrosity" Annotation="0" />
+  <Cards CatID="106775" Quantity="1" Sideboard="false" Name="Glimmer Lens" Annotation="0" />
+  <Cards CatID="125383" Quantity="1" Sideboard="false" Name="Generous Plunderer" Annotation="0" />
+  <Cards CatID="126093" Quantity="1" Sideboard="false" Name="Ocelot Pride" Annotation="0" />
+  <Cards CatID="90667" Quantity="1" Sideboard="false" Name="Unholy Heat" Annotation="0" />
+  <Cards CatID="123419" Quantity="1" Sideboard="false" Name="Headliner Scarlett" Annotation="0" />
+  <Cards CatID="125325" Quantity="1" Sideboard="false" Name="Sandstorm Salvager" Annotation="0" />
+  <Cards CatID="96980" Quantity="1" Sideboard="false" Name="The Restoration of Eiganjo" Annotation="0" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" Annotation="0" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" Annotation="0" />
+  <Cards CatID="94812" Quantity="1" Sideboard="false" Name="Ulvenwald Oddity" Annotation="0" />
+  <Cards CatID="112296" Quantity="1" Sideboard="false" Name="Arwen, Mortal Queen" Annotation="0" />
+  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" Annotation="0" />
+  <Cards CatID="30923" Quantity="1" Sideboard="false" Name="Ajani Vengeant" Annotation="0" />
+  <Cards CatID="79150" Quantity="1" Sideboard="false" Name="Elspeth Conquers Death" Annotation="0" />
+  <Cards CatID="127443" Quantity="1" Sideboard="false" Name="Bloodbraid Challenger" Annotation="0" />
+  <Cards CatID="132034" Quantity="1" Sideboard="false" Name="Rancor" Annotation="0" />
+  <Cards CatID="136365" Quantity="1" Sideboard="false" Name="Draconautics Engineer" Annotation="0" />
+  <Cards CatID="127421" Quantity="1" Sideboard="false" Name="Pyrogoyf" Annotation="0" />
+  <Cards CatID="117480" Quantity="1" Sideboard="false" Name="Inti, Seneschal of the Sun" Annotation="0" />
+  <Cards CatID="143125" Quantity="1" Sideboard="false" Name="Sacred Foundry" Annotation="0" />
+  <Cards CatID="94204" Quantity="1" Sideboard="false" Name="Thalia, Guardian of Thraben" Annotation="0" />
+  <Cards CatID="66651" Quantity="1" Sideboard="false" Name="Dire Fleet Daredevil" Annotation="0" />
+  <Cards CatID="26844" Quantity="1" Sideboard="false" Name="Tarmogoyf" Annotation="0" />
+  <Cards CatID="39834" Quantity="1" Sideboard="false" Name="Porcelain Legionnaire" Annotation="0" />
+  <Cards CatID="106821" Quantity="1" Sideboard="false" Name="Otharri, Suns' Glory" Annotation="0" />
+  <Cards CatID="110512" Quantity="1" Sideboard="false" Name="Death-Greeter's Champion" Annotation="0" />
+  <Cards CatID="57876" Quantity="1" Sideboard="false" Name="Kytheon, Hero of Akros" Annotation="0" />
+  <Cards CatID="90904" Quantity="1" Sideboard="false" Name="Yavimaya, Cradle of Growth" Annotation="0" />
+  <Cards CatID="96962" Quantity="1" Sideboard="false" Name="Lion Sash" Annotation="0" />
+  <Cards CatID="23629" Quantity="1" Sideboard="false" Name="Electrolyze" Annotation="0" />
+  <Cards CatID="139917" Quantity="1" Sideboard="false" Name="Wall of Omens" Annotation="0" />
+  <Cards CatID="36306" Quantity="1" Sideboard="false" Name="Pernicious Deed" Annotation="0" />
+  <Cards CatID="124075" Quantity="1" Sideboard="false" Name="Caustic Bronco" Annotation="0" />
+  <Cards CatID="135894" Quantity="1" Sideboard="false" Name="Bloodtithe Harvester" Annotation="0" />
+  <Cards CatID="124359" Quantity="1" Sideboard="false" Name="Pillage the Bog" Annotation="0" />
+  <Cards CatID="98711" Quantity="1" Sideboard="false" Name="Unlicensed Hearse" Annotation="0" />
+  <Cards CatID="31731" Quantity="1" Sideboard="false" Name="Martial Coup" Annotation="0" />
+  <Cards CatID="58531" Quantity="1" Sideboard="false" Name="Shambling Vent" Annotation="0" />
+</Deck>

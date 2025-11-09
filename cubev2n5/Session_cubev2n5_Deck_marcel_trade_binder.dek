@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="105104" Quantity="1" Sideboard="false" Name="Portal to Phyrexia" Annotation="0" />
+  <Cards CatID="91009" Quantity="1" Sideboard="false" Name="Mirari's Wake" Annotation="0" />
+  <Cards CatID="60320" Quantity="1" Sideboard="false" Name="Tireless Tracker" Annotation="0" />
+  <Cards CatID="115059" Quantity="1" Sideboard="false" Name="Thran Dynamo" Annotation="0" />
+  <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" Annotation="0" />
+  <Cards CatID="52697" Quantity="1" Sideboard="false" Name="Ancient Tomb" Annotation="0" />
+  <Cards CatID="142343" Quantity="1" Sideboard="false" Name="Pest Infestation" Annotation="0" />
+  <Cards CatID="57310" Quantity="1" Sideboard="false" Name="Karn Liberated" Annotation="0" />
+  <Cards CatID="70673" Quantity="1" Sideboard="false" Name="Coveted Jewel" Annotation="0" />
+  <Cards CatID="143115" Quantity="1" Sideboard="false" Name="Breeding Pool" Annotation="0" />
+  <Cards CatID="31925" Quantity="1" Sideboard="false" Name="Knight of the Reliquary" Annotation="0" />
+  <Cards CatID="56432" Quantity="1" Sideboard="false" Name="Lotus Petal" Annotation="0" />
+  <Cards CatID="124359" Quantity="1" Sideboard="false" Name="Pillage the Bog" Annotation="0" />
+  <Cards CatID="55976" Quantity="1" Sideboard="false" Name="Dragonlord Atarka" Annotation="0" />
+  <Cards CatID="143129" Quantity="1" Sideboard="false" Name="Stomping Ground" Annotation="0" />
+  <Cards CatID="31745" Quantity="1" Sideboard="false" Name="Noble Hierarch" Annotation="0" />
+  <Cards CatID="143125" Quantity="1" Sideboard="false" Name="Sacred Foundry" Annotation="0" />
+  <Cards CatID="97434" Quantity="1" Sideboard="false" Name="Circuit Mender" Annotation="0" />
+  <Cards CatID="133488" Quantity="1" Sideboard="false" Name="Reclamation Sage" Annotation="0" />
+  <Cards CatID="27771" Quantity="1" Sideboard="false" Name="Armageddon" Annotation="0" />
+  <Cards CatID="59091" Quantity="1" Sideboard="false" Name="Sylvan Library" Annotation="0" />
+  <Cards CatID="67467" Quantity="1" Sideboard="false" Name="Karn, Scion of Urza" Annotation="0" />
+  <Cards CatID="43815" Quantity="1" Sideboard="false" Name="Terminus" Annotation="0" />
+  <Cards CatID="91031" Quantity="1" Sideboard="false" Name="Mishra's Factory" Annotation="0" />
+  <Cards CatID="36408" Quantity="1" Sideboard="false" Name="Joraga Treespeaker" Annotation="0" />
+  <Cards CatID="46777" Quantity="1" Sideboard="false" Name="Deathrite Shaman" Annotation="0" />
+  <Cards CatID="93064" Quantity="1" Sideboard="false" Name="Memory Deluge" Annotation="0" />
+  <Cards CatID="48302" Quantity="1" Sideboard="false" Name="Voice of Resurgence" Annotation="0" />
+  <Cards CatID="123419" Quantity="1" Sideboard="false" Name="Headliner Scarlett" Annotation="0" />
+  <Cards CatID="30136" Quantity="1" Sideboard="false" Name="Flooded Grove" Annotation="0" />
+  <Cards CatID="36628" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" Annotation="0" />
+  <Cards CatID="78478" Quantity="1" Sideboard="false" Name="Once Upon a Time" Annotation="0" />
+  <Cards CatID="54200" Quantity="1" Sideboard="false" Name="Wooded Foothills" Annotation="0" />
+  <Cards CatID="58301" Quantity="1" Sideboard="false" Name="Ulamog, the Ceaseless Hunger" Annotation="0" />
+  <Cards CatID="90882" Quantity="1" Sideboard="false" Name="Misty Rainforest" Annotation="0" />
+  <Cards CatID="29495" Quantity="1" Sideboard="false" Name="Wooded Bastion" Annotation="0" />
+  <Cards CatID="42572" Quantity="1" Sideboard="false" Name="Gavony Township" Annotation="0" />
+  <Cards CatID="45724" Quantity="1" Sideboard="false" Name="Farseek" Annotation="0" />
+  <Cards CatID="29305" Quantity="1" Sideboard="false" Name="Devoted Druid" Annotation="0" />
+  <Cards CatID="39746" Quantity="1" Sideboard="false" Name="Sheoldred, Whispering One" Annotation="0" />
+  <Cards CatID="33919" Quantity="1" Sideboard="false" Name="Balance" Annotation="0" />
+  <Cards CatID="87215" Quantity="1" Sideboard="false" Name="Kroxa, Titan of Death's Hunger" Annotation="0" />
+  <Cards CatID="27112" Quantity="1" Sideboard="false" Name="Treetop Village" Annotation="0" />
+  <Cards CatID="78190" Quantity="1" Sideboard="false" Name="Emry, Lurker of the Loch" Annotation="0" />
+  <Cards CatID="56082" Quantity="1" Sideboard="false" Name="Kolaghan's Command" Annotation="0" />
+</Deck>

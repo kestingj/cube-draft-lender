@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="35591" Quantity="1" Sideboard="false" Name="Jace, the Mind Sculptor" Annotation="0" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" Annotation="0" />
+  <Cards CatID="143129" Quantity="1" Sideboard="false" Name="Stomping Ground" Annotation="0" />
+  <Cards CatID="81375" Quantity="1" Sideboard="false" Name="Sublime Epiphany" Annotation="0" />
+  <Cards CatID="90419" Quantity="1" Sideboard="false" Name="Prismatic Ending" Annotation="0" />
+  <Cards CatID="37885" Quantity="1" Sideboard="false" Name="Karakas" Annotation="0" />
+  <Cards CatID="33919" Quantity="1" Sideboard="false" Name="Balance" Annotation="0" />
+  <Cards CatID="27759" Quantity="1" Sideboard="false" Name="Chromatic Star" Annotation="0" />
+  <Cards CatID="53097" Quantity="1" Sideboard="false" Name="Underground Sea" Annotation="0" />
+  <Cards CatID="21021" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" Annotation="0" />
+  <Cards CatID="90439" Quantity="1" Sideboard="false" Name="Timeless Dragon" Annotation="0" />
+  <Cards CatID="29493" Quantity="1" Sideboard="false" Name="Mystic Gate" Annotation="0" />
+  <Cards CatID="56432" Quantity="1" Sideboard="false" Name="Lotus Petal" Annotation="0" />
+  <Cards CatID="72662" Quantity="1" Sideboard="false" Name="Seasoned Pyromancer" Annotation="0" />
+  <Cards CatID="110512" Quantity="1" Sideboard="false" Name="Death-Greeter's Champion" Annotation="0" />
+  <Cards CatID="52910" Quantity="1" Sideboard="false" Name="Swords to Plowshares" Annotation="0" />
+  <Cards CatID="53071" Quantity="1" Sideboard="false" Name="Fireblast" Annotation="0" />
+  <Cards CatID="124931" Quantity="1" Sideboard="false" Name="The Mimeoplasm" Annotation="0" />
+  <Cards CatID="91027" Quantity="1" Sideboard="false" Name="Zuran Orb" Annotation="0" />
+  <Cards CatID="91237" Quantity="1" Sideboard="false" Name="Force of Negation" Annotation="0" />
+  <Cards CatID="91227" Quantity="1" Sideboard="false" Name="Subtlety" Annotation="0" />
+  <Cards CatID="78522" Quantity="1" Sideboard="false" Name="Escape to the Wilds" Annotation="0" />
+  <Cards CatID="32388" Quantity="1" Sideboard="false" Name="Maelstrom Pulse" Annotation="0" />
+  <Cards CatID="91203" Quantity="1" Sideboard="false" Name="Solitude" Annotation="0" />
+  <Cards CatID="67879" Quantity="1" Sideboard="false" Name="Teferi, Hero of Dominaria" Annotation="0" />
+  <Cards CatID="35737" Quantity="1" Sideboard="false" Name="Stoneforge Mystic" Annotation="0" />
+  <Cards CatID="30923" Quantity="1" Sideboard="false" Name="Ajani Vengeant" Annotation="0" />
+  <Cards CatID="28071" Quantity="1" Sideboard="false" Name="Urza's Bauble" Annotation="0" />
+  <Cards CatID="90533" Quantity="1" Sideboard="false" Name="Damn" Annotation="0" />
+  <Cards CatID="125952" Quantity="1" Sideboard="false" Name="Kappa Cannoneer" Annotation="0" />
+  <Cards CatID="130403" Quantity="1" Sideboard="false" Name="Fear of Missing Out" Annotation="0" />
+  <Cards CatID="125445" Quantity="1" Sideboard="false" Name="Vaultborn Tyrant" Annotation="0" />
+  <Cards CatID="44105" Quantity="1" Sideboard="false" Name="Blood Artist" Annotation="0" />
+  <Cards CatID="60787" Quantity="1" Sideboard="false" Name="Pyrokinesis" Annotation="0" />
+  <Cards CatID="39734" Quantity="1" Sideboard="false" Name="Phyrexian Metamorph" Annotation="0" />
+  <Cards CatID="71542" Quantity="1" Sideboard="false" Name="Hallowed Fountain" Annotation="0" />
+  <Cards CatID="90516" Quantity="1" Sideboard="false" Name="Thought Monitor" Annotation="0" />
+  <Cards CatID="100124" Quantity="1" Sideboard="false" Name="Displacer Kitten" Annotation="0" />
+  <Cards CatID="139874" Quantity="1" Sideboard="false" Name="Urza, Lord High Artificer" Annotation="0" />
+  <Cards CatID="30226" Quantity="1" Sideboard="false" Name="Glen Elendra Archmage" Annotation="0" />
+  <Cards CatID="128199" Quantity="1" Sideboard="false" Name="Jacked Rabbit" Annotation="0" />
+  <Cards CatID="97068" Quantity="1" Sideboard="false" Name="The Reality Chip" Annotation="0" />
+  <Cards CatID="130192" Quantity="1" Sideboard="false" Name="Sheltered by Ghosts" Annotation="0" />
+  <Cards CatID="130387" Quantity="1" Sideboard="false" Name="Chainsaw" Annotation="0" />
+  <Cards CatID="42572" Quantity="1" Sideboard="false" Name="Gavony Township" Annotation="0" />
+</Deck>

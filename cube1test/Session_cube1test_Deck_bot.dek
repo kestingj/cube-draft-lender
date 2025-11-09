@@ -1,0 +1,49 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="123585" Quantity="1" Sideboard="false" Name="Mana Drain" Annotation="0" />
+  <Cards CatID="126513" Quantity="1" Sideboard="false" Name="Tamiyo, Inquisitive Student" Annotation="0" />
+  <Cards CatID="24821" Quantity="1" Sideboard="false" Name="Mishra's Bauble" Annotation="0" />
+  <Cards CatID="43169" Quantity="1" Sideboard="false" Name="Sorin, Lord of Innistrad" Annotation="0" />
+  <Cards CatID="93064" Quantity="1" Sideboard="false" Name="Memory Deluge" Annotation="0" />
+  <Cards CatID="115315" Quantity="1" Sideboard="false" Name="Mystic Confluence" Annotation="0" />
+  <Cards CatID="110512" Quantity="1" Sideboard="false" Name="Death-Greeter's Champion" Annotation="0" />
+  <Cards CatID="78352" Quantity="1" Sideboard="false" Name="Bonecrusher Giant" Annotation="0" />
+  <Cards CatID="121910" Quantity="1" Sideboard="false" Name="Lightning Helix" Annotation="0" />
+  <Cards CatID="80473" Quantity="1" Sideboard="false" Name="Yorion, Sky Nomad" Annotation="0" />
+  <Cards CatID="128917" Quantity="1" Sideboard="false" Name="Jacked Rabbit" Annotation="0" />
+  <Cards CatID="72386" Quantity="1" Sideboard="false" Name="Ephemerate" Annotation="0" />
+  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" Annotation="0" />
+  <Cards CatID="87393" Quantity="1" Sideboard="false" Name="Usher of the Fallen" Annotation="0" />
+  <Cards CatID="83023" Quantity="1" Sideboard="false" Name="Skyclave Apparition" Annotation="0" />
+  <Cards CatID="30923" Quantity="1" Sideboard="false" Name="Ajani Vengeant" Annotation="0" />
+  <Cards CatID="79582" Quantity="1" Sideboard="false" Name="Uro, Titan of Nature's Wrath" Annotation="0" />
+  <Cards CatID="90882" Quantity="1" Sideboard="false" Name="Misty Rainforest" Annotation="0" />
+  <Cards CatID="92016" Quantity="1" Sideboard="false" Name="Hall of Storm Giants" Annotation="0" />
+  <Cards CatID="131986" Quantity="1" Sideboard="false" Name="Whirler Rogue" Annotation="0" />
+  <Cards CatID="90516" Quantity="1" Sideboard="false" Name="Thought Monitor" Annotation="0" />
+  <Cards CatID="10035" Quantity="1" Sideboard="false" Name="Wasteland" Annotation="0" />
+  <Cards CatID="11931" Quantity="1" Sideboard="false" Name="Tolarian Academy" Annotation="0" />
+  <Cards CatID="39834" Quantity="1" Sideboard="false" Name="Porcelain Legionnaire" Annotation="0" />
+  <Cards CatID="105104" Quantity="1" Sideboard="false" Name="Portal to Phyrexia" Annotation="0" />
+  <Cards CatID="64774" Quantity="1" Sideboard="false" Name="The Scarab God" Annotation="0" />
+  <Cards CatID="97434" Quantity="1" Sideboard="false" Name="Circuit Mender" Annotation="0" />
+  <Cards CatID="143770" Quantity="1" Sideboard="false" Name="Thespian's Stage" Annotation="0" />
+  <Cards CatID="58128" Quantity="1" Sideboard="false" Name="Hangarback Walker" Annotation="0" />
+  <Cards CatID="125299" Quantity="1" Sideboard="false" Name="Simulacrum Synthesizer" Annotation="0" />
+  <Cards CatID="53095" Quantity="1" Sideboard="false" Name="Tundra" Annotation="0" />
+  <Cards CatID="28095" Quantity="1" Sideboard="false" Name="Arcane Denial" Annotation="0" />
+  <Cards CatID="41289" Quantity="1" Sideboard="false" Name="Mana Leak" Annotation="0" />
+  <Cards CatID="27759" Quantity="1" Sideboard="false" Name="Chromatic Star" Annotation="0" />
+  <Cards CatID="41241" Quantity="1" Sideboard="false" Name="Ponder" Annotation="0" />
+  <Cards CatID="25793" Quantity="1" Sideboard="false" Name="Prismatic Lens" Annotation="0" />
+  <Cards CatID="117886" Quantity="1" Sideboard="false" Name="Chart a Course" Annotation="0" />
+  <Cards CatID="104942" Quantity="1" Sideboard="false" Name="Mishra's Research Desk" Annotation="0" />
+  <Cards CatID="106775" Quantity="1" Sideboard="false" Name="Glimmer Lens" Annotation="0" />
+  <Cards CatID="130192" Quantity="1" Sideboard="false" Name="Sheltered by Ghosts" Annotation="0" />
+  <Cards CatID="135469" Quantity="1" Sideboard="false" Name="Wedding Announcement" Annotation="0" />
+  <Cards CatID="31731" Quantity="1" Sideboard="false" Name="Martial Coup" Annotation="0" />
+  <Cards CatID="49413" Quantity="1" Sideboard="false" Name="Young Pyromancer" Annotation="0" />
+  <Cards CatID="98413" Quantity="1" Sideboard="false" Name="Tenacious Underdog" Annotation="0" />
+</Deck>

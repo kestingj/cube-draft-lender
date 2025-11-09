@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="127421" Quantity="1" Sideboard="false" Name="Pyrogoyf" Annotation="0" />
+  <Cards CatID="90667" Quantity="1" Sideboard="false" Name="Unholy Heat" Annotation="0" />
+  <Cards CatID="87619" Quantity="1" Sideboard="false" Name="Magda, Brazen Outlaw" Annotation="0" />
+  <Cards CatID="125963" Quantity="1" Sideboard="false" Name="Ophiomancer" Annotation="0" />
+  <Cards CatID="38185" Quantity="1" Sideboard="false" Name="Wurmcoil Engine" Annotation="0" />
+  <Cards CatID="133410" Quantity="1" Sideboard="false" Name="Burst Lightning" Annotation="0" />
+  <Cards CatID="133386" Quantity="1" Sideboard="false" Name="Phyrexian Arena" Annotation="0" />
+  <Cards CatID="60849" Quantity="1" Sideboard="false" Name="Malicious Affliction" Annotation="0" />
+  <Cards CatID="44105" Quantity="1" Sideboard="false" Name="Blood Artist" Annotation="0" />
+  <Cards CatID="118494" Quantity="1" Sideboard="false" Name="Broadside Bombardiers" Annotation="0" />
+  <Cards CatID="136365" Quantity="1" Sideboard="false" Name="Draconautics Engineer" Annotation="0" />
+  <Cards CatID="88649" Quantity="1" Sideboard="false" Name="Sedgemoor Witch" Annotation="0" />
+  <Cards CatID="78320" Quantity="1" Sideboard="false" Name="Rankle, Master of Pranks" Annotation="0" />
+  <Cards CatID="129121" Quantity="1" Sideboard="false" Name="Fabled Passage" Annotation="0" />
+  <Cards CatID="23084" Quantity="1" Sideboard="false" Name="Dark Confidant" Annotation="0" />
+  <Cards CatID="93186" Quantity="1" Sideboard="false" Name="The Meathook Massacre" Annotation="0" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" Annotation="0" />
+  <Cards CatID="67627" Quantity="1" Sideboard="false" Name="Cast Down" Annotation="0" />
+  <Cards CatID="41295" Quantity="1" Sideboard="false" Name="Grave Titan" Annotation="0" />
+  <Cards CatID="117718" Quantity="1" Sideboard="false" Name="Bonehoard Dracosaur" Annotation="0" />
+  <Cards CatID="93174" Quantity="1" Sideboard="false" Name="Infernal Grasp" Annotation="0" />
+  <Cards CatID="29038" Quantity="1" Sideboard="false" Name="Bitterblossom" Annotation="0" />
+  <Cards CatID="87215" Quantity="1" Sideboard="false" Name="Kroxa, Titan of Death's Hunger" Annotation="0" />
+  <Cards CatID="53500" Quantity="1" Sideboard="false" Name="Goblin Rabblemaster" Annotation="0" />
+  <Cards CatID="56082" Quantity="1" Sideboard="false" Name="Kolaghan's Command" Annotation="0" />
+  <Cards CatID="90533" Quantity="1" Sideboard="false" Name="Damn" Annotation="0" />
+  <Cards CatID="90982" Quantity="1" Sideboard="false" Name="Goblin Bombardment" Annotation="0" />
+  <Cards CatID="30098" Quantity="1" Sideboard="false" Name="Rugged Prairie" Annotation="0" />
+  <Cards CatID="80509" Quantity="1" Sideboard="false" Name="Ketria Triome" Annotation="0" />
+  <Cards CatID="121290" Quantity="1" Sideboard="false" Name="Assassin's Trophy" Annotation="0" />
+  <Cards CatID="90525" Quantity="1" Sideboard="false" Name="Bone Shards" Annotation="0" />
+  <Cards CatID="66617" Quantity="1" Sideboard="false" Name="Ravenous Chupacabra" Annotation="0" />
+  <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" Annotation="0" />
+  <Cards CatID="90647" Quantity="1" Sideboard="false" Name="Mine Collapse" Annotation="0" />
+  <Cards CatID="143129" Quantity="1" Sideboard="false" Name="Stomping Ground" Annotation="0" />
+  <Cards CatID="130031" Quantity="1" Sideboard="false" Name="Unholy Annex // Ritual Chamber" Annotation="0" />
+  <Cards CatID="91123" Quantity="1" Sideboard="false" Name="Territorial Kavu" Annotation="0" />
+  <Cards CatID="125965" Quantity="1" Sideboard="false" Name="Toxic Deluge" Annotation="0" />
+  <Cards CatID="122010" Quantity="1" Sideboard="false" Name="Commercial District" Annotation="0" />
+  <Cards CatID="130403" Quantity="1" Sideboard="false" Name="Fear of Missing Out" Annotation="0" />
+  <Cards CatID="130725" Quantity="1" Sideboard="false" Name="Metamorphosis Fanatic" Annotation="0" />
+  <Cards CatID="40780" Quantity="1" Sideboard="false" Name="Fire // Ice" Annotation="0" />
+  <Cards CatID="90578" Quantity="1" Sideboard="false" Name="Tourach, Dread Cantor" Annotation="0" />
+  <Cards CatID="123360" Quantity="1" Sideboard="false" Name="Carnage Interpreter" Annotation="0" />
+  <Cards CatID="53071" Quantity="1" Sideboard="false" Name="Fireblast" Annotation="0" />
+</Deck>

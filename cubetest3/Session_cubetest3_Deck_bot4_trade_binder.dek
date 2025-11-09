@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="83375" Quantity="1" Sideboard="false" Name="Lotus Cobra" Annotation="0" />
+  <Cards CatID="64742" Quantity="1" Sideboard="false" Name="Ramunap Excavator" Annotation="0" />
+  <Cards CatID="90782" Quantity="1" Sideboard="false" Name="Grist, the Hunger Tide" Annotation="0" />
+  <Cards CatID="102317" Quantity="1" Sideboard="false" Name="Wrenn and Six" Annotation="0" />
+  <Cards CatID="54198" Quantity="1" Sideboard="false" Name="Bloodstained Mire" Annotation="0" />
+  <Cards CatID="78458" Quantity="1" Sideboard="false" Name="Gilded Goose" Annotation="0" />
+  <Cards CatID="125849" Quantity="1" Sideboard="false" Name="Springheart Nantuko" Annotation="0" />
+  <Cards CatID="24583" Quantity="1" Sideboard="false" Name="Dark Depths" Annotation="0" />
+  <Cards CatID="35675" Quantity="1" Sideboard="false" Name="Raging Ravine" Annotation="0" />
+  <Cards CatID="127403" Quantity="1" Sideboard="false" Name="Barrowgoyf" Annotation="0" />
+  <Cards CatID="91009" Quantity="1" Sideboard="false" Name="Mirari's Wake" Annotation="0" />
+  <Cards CatID="30114" Quantity="1" Sideboard="false" Name="Fetid Heath" Annotation="0" />
+  <Cards CatID="103536" Quantity="1" Sideboard="false" Name="Torsten, Founder of Benalia" Annotation="0" />
+  <Cards CatID="91209" Quantity="1" Sideboard="false" Name="Giver of Runes" Annotation="0" />
+  <Cards CatID="36360" Quantity="1" Sideboard="false" Name="Inquisition of Kozilek" Annotation="0" />
+  <Cards CatID="43112" Quantity="1" Sideboard="false" Name="Sphinx of the Steel Wind" Annotation="0" />
+  <Cards CatID="78624" Quantity="1" Sideboard="false" Name="Castle Embereth" Annotation="0" />
+  <Cards CatID="94812" Quantity="1" Sideboard="false" Name="Ulvenwald Oddity" Annotation="0" />
+  <Cards CatID="20856" Quantity="1" Sideboard="false" Name="Eternal Witness" Annotation="0" />
+  <Cards CatID="78538" Quantity="1" Sideboard="false" Name="Oko, Thief of Crowns" Annotation="0" />
+  <Cards CatID="10035" Quantity="1" Sideboard="false" Name="Wasteland" Annotation="0" />
+  <Cards CatID="118494" Quantity="1" Sideboard="false" Name="Broadside Bombardiers" Annotation="0" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" Annotation="0" />
+  <Cards CatID="121438" Quantity="1" Sideboard="false" Name="Lush Portico" Annotation="0" />
+  <Cards CatID="127443" Quantity="1" Sideboard="false" Name="Bloodbraid Challenger" Annotation="0" />
+  <Cards CatID="136365" Quantity="1" Sideboard="false" Name="Draconautics Engineer" Annotation="0" />
+  <Cards CatID="73393" Quantity="1" Sideboard="false" Name="Field of the Dead" Annotation="0" />
+  <Cards CatID="87393" Quantity="1" Sideboard="false" Name="Usher of the Fallen" Annotation="0" />
+  <Cards CatID="126340" Quantity="1" Sideboard="false" Name="Malevolent Rumble" Annotation="0" />
+  <Cards CatID="80475" Quantity="1" Sideboard="false" Name="Zirda, the Dawnwaker" Annotation="0" />
+  <Cards CatID="60320" Quantity="1" Sideboard="false" Name="Tireless Tracker" Annotation="0" />
+  <Cards CatID="100608" Quantity="1" Sideboard="false" Name="Minsc &amp; Boo, Timeless Heroes" Annotation="0" />
+  <Cards CatID="56818" Quantity="1" Sideboard="false" Name="Mox Diamond" Annotation="0" />
+  <Cards CatID="90870" Quantity="1" Sideboard="false" Name="Arid Mesa" Annotation="0" />
+  <Cards CatID="46777" Quantity="1" Sideboard="false" Name="Deathrite Shaman" Annotation="0" />
+  <Cards CatID="98135" Quantity="1" Sideboard="false" Name="Boseiju, Who Endures" Annotation="0" />
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" Annotation="0" />
+  <Cards CatID="90902" Quantity="1" Sideboard="false" Name="Verdant Catacombs" Annotation="0" />
+  <Cards CatID="112404" Quantity="1" Sideboard="false" Name="Palantír of Orthanc" Annotation="0" />
+  <Cards CatID="57330" Quantity="1" Sideboard="false" Name="Dismember" Annotation="0" />
+  <Cards CatID="126475" Quantity="1" Sideboard="false" Name="Shifting Woodland" Annotation="0" />
+  <Cards CatID="117632" Quantity="1" Sideboard="false" Name="Sentinel of the Nameless City" Annotation="0" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" Annotation="0" />
+  <Cards CatID="29501" Quantity="1" Sideboard="false" Name="Fire-Lit Thicket" Annotation="0" />
+  <Cards CatID="41295" Quantity="1" Sideboard="false" Name="Grave Titan" Annotation="0" />
+</Deck>

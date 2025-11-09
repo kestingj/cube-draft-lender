@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="91009" Quantity="1" Sideboard="false" Name="Mirari's Wake" Annotation="0" />
+  <Cards CatID="60320" Quantity="1" Sideboard="false" Name="Tireless Tracker" Annotation="0" />
+  <Cards CatID="54200" Quantity="1" Sideboard="false" Name="Wooded Foothills" Annotation="0" />
+  <Cards CatID="90710" Quantity="1" Sideboard="false" Name="Ignoble Hierarch" Annotation="0" />
+  <Cards CatID="29038" Quantity="1" Sideboard="false" Name="Bitterblossom" Annotation="0" />
+  <Cards CatID="126413" Quantity="1" Sideboard="false" Name="Phlage, Titan of Fire's Fury" Annotation="0" />
+  <Cards CatID="98741" Quantity="1" Sideboard="false" Name="Ziatora's Proving Ground" Annotation="0" />
+  <Cards CatID="131962" Quantity="1" Sideboard="false" Name="Path to Exile" Annotation="0" />
+  <Cards CatID="122028" Quantity="1" Sideboard="false" Name="Shadowy Backstreet" Annotation="0" />
+  <Cards CatID="35773" Quantity="1" Sideboard="false" Name="Arbor Elf" Annotation="0" />
+  <Cards CatID="32388" Quantity="1" Sideboard="false" Name="Maelstrom Pulse" Annotation="0" />
+  <Cards CatID="96980" Quantity="1" Sideboard="false" Name="The Restoration of Eiganjo" Annotation="0" />
+  <Cards CatID="142343" Quantity="1" Sideboard="false" Name="Pest Infestation" Annotation="0" />
+  <Cards CatID="78458" Quantity="1" Sideboard="false" Name="Gilded Goose" Annotation="0" />
+  <Cards CatID="31125" Quantity="1" Sideboard="false" Name="Tidehollow Sculler" Annotation="0" />
+  <Cards CatID="56686" Quantity="1" Sideboard="false" Name="Reanimate" Annotation="0" />
+  <Cards CatID="57632" Quantity="1" Sideboard="false" Name="Knight of the White Orchid" Annotation="0" />
+  <Cards CatID="117986" Quantity="1" Sideboard="false" Name="Bitter Triumph" Annotation="0" />
+  <Cards CatID="90523" Quantity="1" Sideboard="false" Name="Archon of Cruelty" Annotation="0" />
+  <Cards CatID="122034" Quantity="1" Sideboard="false" Name="Underground Mortuary" Annotation="0" />
+  <Cards CatID="83023" Quantity="1" Sideboard="false" Name="Skyclave Apparition" Annotation="0" />
+  <Cards CatID="23084" Quantity="1" Sideboard="false" Name="Dark Confidant" Annotation="0" />
+  <Cards CatID="66617" Quantity="1" Sideboard="false" Name="Ravenous Chupacabra" Annotation="0" />
+  <Cards CatID="98727" Quantity="1" Sideboard="false" Name="Raffine's Tower" Annotation="0" />
+  <Cards CatID="38480" Quantity="1" Sideboard="false" Name="Bayou" Annotation="0" />
+  <Cards CatID="126340" Quantity="1" Sideboard="false" Name="Malevolent Rumble" Annotation="0" />
+  <Cards CatID="30923" Quantity="1" Sideboard="false" Name="Ajani Vengeant" Annotation="0" />
+  <Cards CatID="90419" Quantity="1" Sideboard="false" Name="Prismatic Ending" Annotation="0" />
+  <Cards CatID="88957" Quantity="1" Sideboard="false" Name="Rip Apart" Annotation="0" />
+  <Cards CatID="125965" Quantity="1" Sideboard="false" Name="Toxic Deluge" Annotation="0" />
+  <Cards CatID="130178" Quantity="1" Sideboard="false" Name="Overlord of the Mistmoors" Annotation="0" />
+  <Cards CatID="13495" Quantity="1" Sideboard="false" Name="Snuff Out" Annotation="0" />
+  <Cards CatID="93174" Quantity="1" Sideboard="false" Name="Infernal Grasp" Annotation="0" />
+  <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" Annotation="0" />
+  <Cards CatID="39996" Quantity="1" Sideboard="false" Name="Blade Splicer" Annotation="0" />
+  <Cards CatID="60817" Quantity="1" Sideboard="false" Name="Vindicate" Annotation="0" />
+  <Cards CatID="122010" Quantity="1" Sideboard="false" Name="Commercial District" Annotation="0" />
+  <Cards CatID="142323" Quantity="1" Sideboard="false" Name="Beast Within" Annotation="0" />
+  <Cards CatID="53081" Quantity="1" Sideboard="false" Name="Plateau" Annotation="0" />
+  <Cards CatID="78616" Quantity="1" Sideboard="false" Name="Stonecoil Serpent" Annotation="0" />
+  <Cards CatID="90997" Quantity="1" Sideboard="false" Name="Titania, Protector of Argoth" Annotation="0" />
+  <Cards CatID="71926" Quantity="1" Sideboard="false" Name="Finale of Devastation" Annotation="0" />
+  <Cards CatID="82542" Quantity="1" Sideboard="false" Name="Everflowing Chalice" Annotation="0" />
+  <Cards CatID="43112" Quantity="1" Sideboard="false" Name="Sphinx of the Steel Wind" Annotation="0" />
+  <Cards CatID="90985" Quantity="1" Sideboard="false" Name="Imperial Recruiter" Annotation="0" />
+</Deck>

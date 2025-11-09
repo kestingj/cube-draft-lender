@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="125785" Quantity="1" Sideboard="false" Name="Tamiyo, Inquisitive Student" Annotation="0" />
+  <Cards CatID="43112" Quantity="1" Sideboard="false" Name="Sphinx of the Steel Wind" Annotation="0" />
+  <Cards CatID="90904" Quantity="1" Sideboard="false" Name="Yavimaya, Cradle of Growth" Annotation="0" />
+  <Cards CatID="50260" Quantity="1" Sideboard="false" Name="Sylvan Caryatid" Annotation="0" />
+  <Cards CatID="139960" Quantity="1" Sideboard="false" Name="Primeval Titan" Annotation="0" />
+  <Cards CatID="53225" Quantity="1" Sideboard="false" Name="Skullclamp" Annotation="0" />
+  <Cards CatID="78478" Quantity="1" Sideboard="false" Name="Once Upon a Time" Annotation="0" />
+  <Cards CatID="128199" Quantity="1" Sideboard="false" Name="Jacked Rabbit" Annotation="0" />
+  <Cards CatID="72722" Quantity="1" Sideboard="false" Name="Regrowth" Annotation="0" />
+  <Cards CatID="42824" Quantity="1" Sideboard="false" Name="Geist of Saint Traft" Annotation="0" />
+  <Cards CatID="83127" Quantity="1" Sideboard="false" Name="Thieving Skydiver" Annotation="0" />
+  <Cards CatID="67467" Quantity="1" Sideboard="false" Name="Karn, Scion of Urza" Annotation="0" />
+  <Cards CatID="79150" Quantity="1" Sideboard="false" Name="Elspeth Conquers Death" Annotation="0" />
+  <Cards CatID="34690" Quantity="1" Sideboard="false" Name="Vampire Hexmage" Annotation="0" />
+  <Cards CatID="7297" Quantity="1" Sideboard="false" Name="Shallow Grave" Annotation="0" />
+  <Cards CatID="12547" Quantity="1" Sideboard="false" Name="Crop Rotation" Annotation="0" />
+  <Cards CatID="142343" Quantity="1" Sideboard="false" Name="Pest Infestation" Annotation="0" />
+  <Cards CatID="87065" Quantity="1" Sideboard="false" Name="Feldon of the Third Path" Annotation="0" />
+  <Cards CatID="30226" Quantity="1" Sideboard="false" Name="Glen Elendra Archmage" Annotation="0" />
+  <Cards CatID="97068" Quantity="1" Sideboard="false" Name="The Reality Chip" Annotation="0" />
+  <Cards CatID="42762" Quantity="1" Sideboard="false" Name="Mikaeus, the Lunarch" Annotation="0" />
+  <Cards CatID="90630" Quantity="1" Sideboard="false" Name="Fury" Annotation="0" />
+  <Cards CatID="80143" Quantity="1" Sideboard="false" Name="Shark Typhoon" Annotation="0" />
+  <Cards CatID="52856" Quantity="1" Sideboard="false" Name="Berserk" Annotation="0" />
+  <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" Annotation="0" />
+  <Cards CatID="64742" Quantity="1" Sideboard="false" Name="Ramunap Excavator" Annotation="0" />
+  <Cards CatID="73393" Quantity="1" Sideboard="false" Name="Field of the Dead" Annotation="0" />
+  <Cards CatID="72386" Quantity="1" Sideboard="false" Name="Ephemerate" Annotation="0" />
+  <Cards CatID="29305" Quantity="1" Sideboard="false" Name="Devoted Druid" Annotation="0" />
+  <Cards CatID="35679" Quantity="1" Sideboard="false" Name="Stirring Wildwood" Annotation="0" />
+  <Cards CatID="20535" Quantity="1" Sideboard="false" Name="Sword of Fire and Ice" Annotation="0" />
+  <Cards CatID="54316" Quantity="1" Sideboard="false" Name="Dig Through Time" Annotation="0" />
+  <Cards CatID="71542" Quantity="1" Sideboard="false" Name="Hallowed Fountain" Annotation="0" />
+  <Cards CatID="39537" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" Annotation="0" />
+  <Cards CatID="32953" Quantity="1" Sideboard="false" Name="Time Warp" Annotation="0" />
+  <Cards CatID="124225" Quantity="1" Sideboard="false" Name="Bristly Bill, Spine Sower" Annotation="0" />
+  <Cards CatID="109930" Quantity="1" Sideboard="false" Name="Faerie Mastermind" Annotation="0" />
+  <Cards CatID="132840" Quantity="1" Sideboard="false" Name="Scythecat Cub" Annotation="0" />
+  <Cards CatID="72472" Quantity="1" Sideboard="false" Name="Fact or Fiction" Annotation="0" />
+  <Cards CatID="52803" Quantity="1" Sideboard="false" Name="Frantic Search" Annotation="0" />
+  <Cards CatID="81635" Quantity="1" Sideboard="false" Name="Scavenging Ooze" Annotation="0" />
+  <Cards CatID="80333" Quantity="1" Sideboard="false" Name="Kogla, the Titan Ape" Annotation="0" />
+  <Cards CatID="67879" Quantity="1" Sideboard="false" Name="Teferi, Hero of Dominaria" Annotation="0" />
+  <Cards CatID="88879" Quantity="1" Sideboard="false" Name="Expressive Iteration" Annotation="0" />
+  <Cards CatID="44009" Quantity="1" Sideboard="false" Name="Restoration Angel" Annotation="0" />
+</Deck>

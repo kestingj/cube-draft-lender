@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="53245" Quantity="1" Sideboard="false" Name="Wheel of Fortune" Annotation="0" />
+  <Cards CatID="81375" Quantity="1" Sideboard="false" Name="Sublime Epiphany" Annotation="0" />
+  <Cards CatID="38197" Quantity="1" Sideboard="false" Name="Mox Opal" Annotation="0" />
+  <Cards CatID="70697" Quantity="1" Sideboard="false" Name="Retrofitter Foundry" Annotation="0" />
+  <Cards CatID="46559" Quantity="1" Sideboard="false" Name="Sphinx's Revelation" Annotation="0" />
+  <Cards CatID="28647" Quantity="1" Sideboard="false" Name="Shriekmaw" Annotation="0" />
+  <Cards CatID="143121" Quantity="1" Sideboard="false" Name="Godless Shrine" Annotation="0" />
+  <Cards CatID="126450" Quantity="1" Sideboard="false" Name="Arena of Glory" Annotation="0" />
+  <Cards CatID="27759" Quantity="1" Sideboard="false" Name="Chromatic Star" Annotation="0" />
+  <Cards CatID="61887" Quantity="1" Sideboard="false" Name="Angel of Invention" Annotation="0" />
+  <Cards CatID="90516" Quantity="1" Sideboard="false" Name="Thought Monitor" Annotation="0" />
+  <Cards CatID="31125" Quantity="1" Sideboard="false" Name="Tidehollow Sculler" Annotation="0" />
+  <Cards CatID="59766" Quantity="1" Sideboard="false" Name="Archangel Avacyn" Annotation="0" />
+  <Cards CatID="90511" Quantity="1" Sideboard="false" Name="Svyelun of Sea and Sky" Annotation="0" />
+  <Cards CatID="38307" Quantity="1" Sideboard="false" Name="Myr Battlesphere" Annotation="0" />
+  <Cards CatID="69929" Quantity="1" Sideboard="false" Name="Temple Garden" Annotation="0" />
+  <Cards CatID="80511" Quantity="1" Sideboard="false" Name="Raugrin Triome" Annotation="0" />
+  <Cards CatID="91273" Quantity="1" Sideboard="false" Name="Ragavan, Nimble Pilferer" Annotation="0" />
+  <Cards CatID="24821" Quantity="1" Sideboard="false" Name="Mishra's Bauble" Annotation="0" />
+  <Cards CatID="26594" Quantity="1" Sideboard="false" Name="Venser, Shaper Savant" Annotation="0" />
+  <Cards CatID="136257" Quantity="1" Sideboard="false" Name="Stock Up" Annotation="0" />
+  <Cards CatID="68810" Quantity="1" Sideboard="false" Name="Spellseeker" Annotation="0" />
+  <Cards CatID="92016" Quantity="1" Sideboard="false" Name="Hall of Storm Giants" Annotation="0" />
+  <Cards CatID="98733" Quantity="1" Sideboard="false" Name="Spara's Headquarters" Annotation="0" />
+  <Cards CatID="121442" Quantity="1" Sideboard="false" Name="Raucous Theater" Annotation="0" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" Annotation="0" />
+  <Cards CatID="57310" Quantity="1" Sideboard="false" Name="Karn Liberated" Annotation="0" />
+  <Cards CatID="82987" Quantity="1" Sideboard="false" Name="Luminarch Aspirant" Annotation="0" />
+  <Cards CatID="134298" Quantity="1" Sideboard="false" Name="Snuff Out" Annotation="0" />
+  <Cards CatID="65054" Quantity="1" Sideboard="false" Name="Legion's Landing" Annotation="0" />
+  <Cards CatID="53157" Quantity="1" Sideboard="false" Name="Mana Drain" Annotation="0" />
+  <Cards CatID="90870" Quantity="1" Sideboard="false" Name="Arid Mesa" Annotation="0" />
+  <Cards CatID="112404" Quantity="1" Sideboard="false" Name="Palantír of Orthanc" Annotation="0" />
+  <Cards CatID="107993" Quantity="1" Sideboard="false" Name="Mind Stone" Annotation="0" />
+  <Cards CatID="61573" Quantity="1" Sideboard="false" Name="Chandra, Torch of Defiance" Annotation="0" />
+  <Cards CatID="131986" Quantity="1" Sideboard="false" Name="Whirler Rogue" Annotation="0" />
+  <Cards CatID="39253" Quantity="1" Sideboard="false" Name="Lightning Bolt" Annotation="0" />
+  <Cards CatID="58128" Quantity="1" Sideboard="false" Name="Hangarback Walker" Annotation="0" />
+  <Cards CatID="93174" Quantity="1" Sideboard="false" Name="Infernal Grasp" Annotation="0" />
+  <Cards CatID="94710" Quantity="1" Sideboard="false" Name="Voldaren Epicure" Annotation="0" />
+  <Cards CatID="52637" Quantity="1" Sideboard="false" Name="Dark Ritual" Annotation="0" />
+  <Cards CatID="127878" Quantity="1" Sideboard="false" Name="Sword of Feast and Famine" Annotation="0" />
+  <Cards CatID="56082" Quantity="1" Sideboard="false" Name="Kolaghan's Command" Annotation="0" />
+  <Cards CatID="24583" Quantity="1" Sideboard="false" Name="Dark Depths" Annotation="0" />
+  <Cards CatID="103536" Quantity="1" Sideboard="false" Name="Torsten, Founder of Benalia" Annotation="0" />
+</Deck>

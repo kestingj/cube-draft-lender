@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="125381" Quantity="1" Sideboard="false" Name="Hostile Investigator" Annotation="0" />
+  <Cards CatID="126371" Quantity="1" Sideboard="false" Name="Abstruse Appropriation" Annotation="0" />
+  <Cards CatID="135894" Quantity="1" Sideboard="false" Name="Bloodtithe Harvester" Annotation="0" />
+  <Cards CatID="35074" Quantity="1" Sideboard="false" Name="Demonic Tutor" Annotation="0" />
+  <Cards CatID="112616" Quantity="1" Sideboard="false" Name="Relic of Sauron" Annotation="0" />
+  <Cards CatID="110512" Quantity="1" Sideboard="false" Name="Death-Greeter's Champion" Annotation="0" />
+  <Cards CatID="98631" Quantity="1" Sideboard="false" Name="Ob Nixilis, the Adversary" Annotation="0" />
+  <Cards CatID="98451" Quantity="1" Sideboard="false" Name="Professional Face-Breaker" Annotation="0" />
+  <Cards CatID="126493" Quantity="1" Sideboard="false" Name="Ajani, Nacatl Pariah" Annotation="0" />
+  <Cards CatID="29511" Quantity="1" Sideboard="false" Name="Graven Cairns" Annotation="0" />
+  <Cards CatID="41611" Quantity="1" Sideboard="false" Name="Grim Lavamancer" Annotation="0" />
+  <Cards CatID="135678" Quantity="1" Sideboard="false" Name="Abrade" Annotation="0" />
+  <Cards CatID="78104" Quantity="1" Sideboard="false" Name="Charming Prince" Annotation="0" />
+  <Cards CatID="53087" Quantity="1" Sideboard="false" Name="Scrubland" Annotation="0" />
+  <Cards CatID="93174" Quantity="1" Sideboard="false" Name="Infernal Grasp" Annotation="0" />
+  <Cards CatID="122012" Quantity="1" Sideboard="false" Name="Elegant Parlor" Annotation="0" />
+  <Cards CatID="97210" Quantity="1" Sideboard="false" Name="Fable of the Mirror-Breaker" Annotation="0" />
+  <Cards CatID="69252" Quantity="1" Sideboard="false" Name="Flooded Strand" Annotation="0" />
+  <Cards CatID="118494" Quantity="1" Sideboard="false" Name="Broadside Bombardiers" Annotation="0" />
+  <Cards CatID="42764" Quantity="1" Sideboard="false" Name="Olivia Voldaren" Annotation="0" />
+  <Cards CatID="67352" Quantity="1" Sideboard="false" Name="Vindicate" Annotation="0" />
+  <Cards CatID="98727" Quantity="1" Sideboard="false" Name="Raffine's Tower" Annotation="0" />
+  <Cards CatID="92916" Quantity="1" Sideboard="false" Name="Adeline, Resplendent Cathar" Annotation="0" />
+  <Cards CatID="61797" Quantity="1" Sideboard="false" Name="Smuggler's Copter" Annotation="0" />
+  <Cards CatID="107993" Quantity="1" Sideboard="false" Name="Mind Stone" Annotation="0" />
+  <Cards CatID="143485" Quantity="1" Sideboard="false" Name="Blast Zone" Annotation="0" />
+  <Cards CatID="39996" Quantity="1" Sideboard="false" Name="Blade Splicer" Annotation="0" />
+  <Cards CatID="52989" Quantity="1" Sideboard="false" Name="Animate Dead" Annotation="0" />
+  <Cards CatID="33460" Quantity="1" Sideboard="false" Name="Plateau" Annotation="0" />
+  <Cards CatID="72662" Quantity="1" Sideboard="false" Name="Seasoned Pyromancer" Annotation="0" />
+  <Cards CatID="53500" Quantity="1" Sideboard="false" Name="Goblin Rabblemaster" Annotation="0" />
+  <Cards CatID="32833" Quantity="1" Sideboard="false" Name="Master of the Wild Hunt" Annotation="0" />
+  <Cards CatID="136257" Quantity="1" Sideboard="false" Name="Stock Up" Annotation="0" />
+  <Cards CatID="80333" Quantity="1" Sideboard="false" Name="Kogla, the Titan Ape" Annotation="0" />
+  <Cards CatID="117632" Quantity="1" Sideboard="false" Name="Sentinel of the Nameless City" Annotation="0" />
+  <Cards CatID="93186" Quantity="1" Sideboard="false" Name="The Meathook Massacre" Annotation="0" />
+  <Cards CatID="87677" Quantity="1" Sideboard="false" Name="Esika's Chariot" Annotation="0" />
+  <Cards CatID="90511" Quantity="1" Sideboard="false" Name="Svyelun of Sea and Sky" Annotation="0" />
+  <Cards CatID="90904" Quantity="1" Sideboard="false" Name="Yavimaya, Cradle of Growth" Annotation="0" />
+  <Cards CatID="24583" Quantity="1" Sideboard="false" Name="Dark Depths" Annotation="0" />
+  <Cards CatID="58301" Quantity="1" Sideboard="false" Name="Ulamog, the Ceaseless Hunger" Annotation="0" />
+  <Cards CatID="78458" Quantity="1" Sideboard="false" Name="Gilded Goose" Annotation="0" />
+  <Cards CatID="122032" Quantity="1" Sideboard="false" Name="Undercity Sewers" Annotation="0" />
+  <Cards CatID="90899" Quantity="1" Sideboard="false" Name="Urza's Saga" Annotation="0" />
+  <Cards CatID="109930" Quantity="1" Sideboard="false" Name="Faerie Mastermind" Annotation="0" />
+  <Cards CatID="78190" Quantity="1" Sideboard="false" Name="Emry, Lurker of the Loch" Annotation="0" />
+  <Cards CatID="52637" Quantity="1" Sideboard="false" Name="Dark Ritual" Annotation="0" />
+</Deck>

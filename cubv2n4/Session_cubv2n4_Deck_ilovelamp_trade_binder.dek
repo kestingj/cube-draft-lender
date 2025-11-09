@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="126513" Quantity="1" Sideboard="false" Name="Tamiyo, Inquisitive Student" Annotation="0" />
+  <Cards CatID="37637" Quantity="1" Sideboard="false" Name="Mox Diamond" Annotation="0" />
+  <Cards CatID="90963" Quantity="1" Sideboard="false" Name="Upheaval" Annotation="0" />
+  <Cards CatID="99907" Quantity="1" Sideboard="false" Name="Currency Converter" Annotation="0" />
+  <Cards CatID="121436" Quantity="1" Sideboard="false" Name="Hedge Maze" Annotation="0" />
+  <Cards CatID="142998" Quantity="1" Sideboard="false" Name="Icetill Explorer" Annotation="0" />
+  <Cards CatID="68810" Quantity="1" Sideboard="false" Name="Spellseeker" Annotation="0" />
+  <Cards CatID="33919" Quantity="1" Sideboard="false" Name="Balance" Annotation="0" />
+  <Cards CatID="34832" Quantity="1" Sideboard="false" Name="Expedition Map" Annotation="0" />
+  <Cards CatID="72722" Quantity="1" Sideboard="false" Name="Regrowth" Annotation="0" />
+  <Cards CatID="53059" Quantity="1" Sideboard="false" Name="Grand Coliseum" Annotation="0" />
+  <Cards CatID="59091" Quantity="1" Sideboard="false" Name="Sylvan Library" Annotation="0" />
+  <Cards CatID="71366" Quantity="1" Sideboard="false" Name="Hydroid Krasis" Annotation="0" />
+  <Cards CatID="79582" Quantity="1" Sideboard="false" Name="Uro, Titan of Nature's Wrath" Annotation="0" />
+  <Cards CatID="78218" Quantity="1" Sideboard="false" Name="Midnight Clock" Annotation="0" />
+  <Cards CatID="36112" Quantity="1" Sideboard="false" Name="Gaea's Cradle" Annotation="0" />
+  <Cards CatID="70673" Quantity="1" Sideboard="false" Name="Coveted Jewel" Annotation="0" />
+  <Cards CatID="78538" Quantity="1" Sideboard="false" Name="Oko, Thief of Crowns" Annotation="0" />
+  <Cards CatID="33933" Quantity="1" Sideboard="false" Name="Tinker" Annotation="0" />
+  <Cards CatID="80511" Quantity="1" Sideboard="false" Name="Raugrin Triome" Annotation="0" />
+  <Cards CatID="90691" Quantity="1" Sideboard="false" Name="Endurance" Annotation="0" />
+  <Cards CatID="28071" Quantity="1" Sideboard="false" Name="Urza's Bauble" Annotation="0" />
+  <Cards CatID="115059" Quantity="1" Sideboard="false" Name="Thran Dynamo" Annotation="0" />
+  <Cards CatID="19831" Quantity="1" Sideboard="false" Name="Chrome Mox" Annotation="0" />
+  <Cards CatID="65012" Quantity="1" Sideboard="false" Name="Adanto Vanguard" Annotation="0" />
+  <Cards CatID="121600" Quantity="1" Sideboard="false" Name="Forensic Gadgeteer" Annotation="0" />
+  <Cards CatID="105104" Quantity="1" Sideboard="false" Name="Portal to Phyrexia" Annotation="0" />
+  <Cards CatID="62221" Quantity="1" Sideboard="false" Name="Time Spiral" Annotation="0" />
+  <Cards CatID="26926" Quantity="1" Sideboard="false" Name="Coalition Relic" Annotation="0" />
+  <Cards CatID="62561" Quantity="1" Sideboard="false" Name="Walking Ballista" Annotation="0" />
+  <Cards CatID="126459" Quantity="1" Sideboard="false" Name="Flooded Strand" Annotation="0" />
+  <Cards CatID="39734" Quantity="1" Sideboard="false" Name="Phyrexian Metamorph" Annotation="0" />
+  <Cards CatID="87677" Quantity="1" Sideboard="false" Name="Esika's Chariot" Annotation="0" />
+  <Cards CatID="126475" Quantity="1" Sideboard="false" Name="Shifting Woodland" Annotation="0" />
+  <Cards CatID="120645" Quantity="1" Sideboard="false" Name="Remand" Annotation="0" />
+  <Cards CatID="36408" Quantity="1" Sideboard="false" Name="Joraga Treespeaker" Annotation="0" />
+  <Cards CatID="35737" Quantity="1" Sideboard="false" Name="Stoneforge Mystic" Annotation="0" />
+  <Cards CatID="46483" Quantity="1" Sideboard="false" Name="Supreme Verdict" Annotation="0" />
+  <Cards CatID="72386" Quantity="1" Sideboard="false" Name="Ephemerate" Annotation="0" />
+  <Cards CatID="12547" Quantity="1" Sideboard="false" Name="Crop Rotation" Annotation="0" />
+  <Cards CatID="60889" Quantity="1" Sideboard="false" Name="Enlightened Tutor" Annotation="0" />
+  <Cards CatID="21097" Quantity="1" Sideboard="false" Name="Sakura-Tribe Elder" Annotation="0" />
+  <Cards CatID="79596" Quantity="1" Sideboard="false" Name="Shadowspear" Annotation="0" />
+  <Cards CatID="55992" Quantity="1" Sideboard="false" Name="Dragonlord Dromoka" Annotation="0" />
+  <Cards CatID="31925" Quantity="1" Sideboard="false" Name="Knight of the Reliquary" Annotation="0" />
+</Deck>

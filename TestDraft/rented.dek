@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="24583" Quantity="1" Name="Dark Depths" Sideboard="true" />
+  <Cards CatID="28071" Quantity="1" Name="Urza&apos;s Bauble" Sideboard="true" />
+  <Cards CatID="36396" Quantity="1" Name="Emrakul, the Aeons Torn" Sideboard="true" />
+  <Cards CatID="37388" Quantity="1" Name="Preordain" Sideboard="true" />
+  <Cards CatID="38197" Quantity="1" Name="Mox Opal" Sideboard="true" />
+  <Cards CatID="13039" Quantity="1" Name="Treachery" Sideboard="true" />
+  <Cards CatID="52913" Quantity="1" Name="Force of Will" Sideboard="true" />
+  <Cards CatID="52697" Quantity="1" Name="Ancient Tomb" Sideboard="true" />
+  <Cards CatID="53077" Quantity="1" Name="Badlands" Sideboard="true" />
+  <Cards CatID="33460" Quantity="1" Name="Plateau" Sideboard="true" />
+  <Cards CatID="53087" Quantity="1" Name="Scrubland" Sideboard="true" />
+  <Cards CatID="125659" Quantity="1" Name="Bloodstained Mire" Sideboard="true" />
+  <Cards CatID="72662" Quantity="1" Name="Seasoned Pyromancer" Sideboard="true" />
+  <Cards CatID="90511" Quantity="1" Name="Svyelun of Sea and Sky" Sideboard="true" />
+  <Cards CatID="90899" Quantity="1" Name="Urza&apos;s Saga" Sideboard="true" />
+  <Cards CatID="67352" Quantity="1" Name="Vindicate" Sideboard="true" />
+  <Cards CatID="93186" Quantity="1" Name="The Meathook Massacre" Sideboard="true" />
+  <Cards CatID="97210" Quantity="1" Name="Fable of the Mirror-Breaker" Sideboard="true" />
+  <Cards CatID="35074" Quantity="1" Name="Demonic Tutor" Sideboard="true" />
+  <Cards CatID="110512" Quantity="1" Name="Death-Greeter&apos;s Champion" Sideboard="true" />
+  <Cards CatID="111536" Quantity="1" Name="Flame of Anor" Sideboard="true" />
+  <Cards CatID="112616" Quantity="1" Name="Relic of Sauron" Sideboard="true" />
+  <Cards CatID="118494" Quantity="1" Name="Broadside Bombardiers" Sideboard="true" />
+  <Cards CatID="122012" Quantity="1" Name="Elegant Parlor" Sideboard="true" />
+  <Cards CatID="122032" Quantity="1" Name="Undercity Sewers" Sideboard="true" />
+  <Cards CatID="125251" Quantity="1" Name="Legion Extruder" Sideboard="true" />
+  <Cards CatID="126493" Quantity="1" Name="Ajani, Nacatl Pariah" Sideboard="true" />
+  <Cards CatID="126513" Quantity="1" Name="Tamiyo, Inquisitive Student" Sideboard="true" />
+  <Cards CatID="69252" Quantity="1" Name="Flooded Strand" Sideboard="true" />
+  <Cards CatID="132840" Quantity="1" Name="Scythecat Cub" Sideboard="true" />
+  <Cards CatID="136257" Quantity="1" Name="Stock Up" Sideboard="true" />
+</Deck>

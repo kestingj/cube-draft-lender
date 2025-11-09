@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="78460" Quantity="1" Sideboard="false" Name="The Great Henge" Annotation="0" />
+  <Cards CatID="78616" Quantity="1" Sideboard="false" Name="Stonecoil Serpent" Annotation="0" />
+  <Cards CatID="97482" Quantity="1" Sideboard="false" Name="Boseiju, Who Endures" Annotation="0" />
+  <Cards CatID="12547" Quantity="1" Sideboard="false" Name="Crop Rotation" Annotation="0" />
+  <Cards CatID="35629" Quantity="1" Sideboard="false" Name="Terastodon" Annotation="0" />
+  <Cards CatID="91295" Quantity="1" Sideboard="false" Name="Endurance" Annotation="0" />
+  <Cards CatID="91027" Quantity="1" Sideboard="false" Name="Zuran Orb" Annotation="0" />
+  <Cards CatID="112248" Quantity="1" Sideboard="false" Name="Generous Ent" Annotation="0" />
+  <Cards CatID="90782" Quantity="1" Sideboard="false" Name="Grist, the Hunger Tide" Annotation="0" />
+  <Cards CatID="36112" Quantity="1" Sideboard="false" Name="Gaea's Cradle" Annotation="0" />
+  <Cards CatID="125847" Quantity="1" Sideboard="false" Name="Sowing Mycospawn" Annotation="0" />
+  <Cards CatID="26844" Quantity="1" Sideboard="false" Name="Tarmogoyf" Annotation="0" />
+  <Cards CatID="35675" Quantity="1" Sideboard="false" Name="Raging Ravine" Annotation="0" />
+  <Cards CatID="90904" Quantity="1" Sideboard="false" Name="Yavimaya, Cradle of Growth" Annotation="0" />
+  <Cards CatID="53097" Quantity="1" Sideboard="false" Name="Underground Sea" Annotation="0" />
+  <Cards CatID="29305" Quantity="1" Sideboard="false" Name="Devoted Druid" Annotation="0" />
+  <Cards CatID="123627" Quantity="1" Sideboard="false" Name="Primal Might" Annotation="0" />
+  <Cards CatID="97434" Quantity="1" Sideboard="false" Name="Circuit Mender" Annotation="0" />
+  <Cards CatID="98515" Quantity="1" Sideboard="false" Name="Gala Greeters" Annotation="0" />
+  <Cards CatID="52816" Quantity="1" Sideboard="false" Name="Rofellos, Llanowar Emissary" Annotation="0" />
+  <Cards CatID="60779" Quantity="1" Sideboard="false" Name="Maze of Ith" Annotation="0" />
+  <Cards CatID="62795" Quantity="1" Sideboard="false" Name="Rishkar, Peema Renegade" Annotation="0" />
+  <Cards CatID="35773" Quantity="1" Sideboard="false" Name="Arbor Elf" Annotation="0" />
+  <Cards CatID="72722" Quantity="1" Sideboard="false" Name="Regrowth" Annotation="0" />
+  <Cards CatID="73359" Quantity="1" Sideboard="false" Name="Manifold Key" Annotation="0" />
+  <Cards CatID="112404" Quantity="1" Sideboard="false" Name="Palantír of Orthanc" Annotation="0" />
+  <Cards CatID="36396" Quantity="1" Sideboard="false" Name="Emrakul, the Aeons Torn" Annotation="0" />
+  <Cards CatID="53099" Quantity="1" Sideboard="false" Name="Volcanic Island" Annotation="0" />
+  <Cards CatID="90697" Quantity="1" Sideboard="false" Name="Foundation Breaker" Annotation="0" />
+  <Cards CatID="60889" Quantity="1" Sideboard="false" Name="Enlightened Tutor" Annotation="0" />
+  <Cards CatID="81635" Quantity="1" Sideboard="false" Name="Scavenging Ooze" Annotation="0" />
+  <Cards CatID="31745" Quantity="1" Sideboard="false" Name="Noble Hierarch" Annotation="0" />
+  <Cards CatID="142998" Quantity="1" Sideboard="false" Name="Icetill Explorer" Annotation="0" />
+  <Cards CatID="78482" Quantity="1" Sideboard="false" Name="Questing Beast" Annotation="0" />
+  <Cards CatID="20535" Quantity="1" Sideboard="false" Name="Sword of Fire and Ice" Annotation="0" />
+  <Cards CatID="142343" Quantity="1" Sideboard="false" Name="Pest Infestation" Annotation="0" />
+  <Cards CatID="133488" Quantity="1" Sideboard="false" Name="Reclamation Sage" Annotation="0" />
+  <Cards CatID="29589" Quantity="1" Sideboard="false" Name="Woodfall Primus" Annotation="0" />
+  <Cards CatID="57310" Quantity="1" Sideboard="false" Name="Karn Liberated" Annotation="0" />
+  <Cards CatID="72806" Quantity="1" Sideboard="false" Name="Wrenn and Six" Annotation="0" />
+  <Cards CatID="46507" Quantity="1" Sideboard="false" Name="Overgrown Tomb" Annotation="0" />
+  <Cards CatID="90710" Quantity="1" Sideboard="false" Name="Ignoble Hierarch" Annotation="0" />
+  <Cards CatID="142323" Quantity="1" Sideboard="false" Name="Beast Within" Annotation="0" />
+  <Cards CatID="78458" Quantity="1" Sideboard="false" Name="Gilded Goose" Annotation="0" />
+  <Cards CatID="31125" Quantity="1" Sideboard="false" Name="Tidehollow Sculler" Annotation="0" />
+</Deck>

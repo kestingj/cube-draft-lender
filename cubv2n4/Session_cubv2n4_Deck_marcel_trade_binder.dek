@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="72770" Quantity="1" Sideboard="false" Name="Fallen Shinobi" Annotation="0" />
+  <Cards CatID="53356" Quantity="1" Sideboard="false" Name="Phyrexian Revoker" Annotation="0" />
+  <Cards CatID="88649" Quantity="1" Sideboard="false" Name="Sedgemoor Witch" Annotation="0" />
+  <Cards CatID="26279" Quantity="1" Sideboard="false" Name="Damnation" Annotation="0" />
+  <Cards CatID="98413" Quantity="1" Sideboard="false" Name="Tenacious Underdog" Annotation="0" />
+  <Cards CatID="90533" Quantity="1" Sideboard="false" Name="Damn" Annotation="0" />
+  <Cards CatID="73359" Quantity="1" Sideboard="false" Name="Manifold Key" Annotation="0" />
+  <Cards CatID="61797" Quantity="1" Sideboard="false" Name="Smuggler's Copter" Annotation="0" />
+  <Cards CatID="143485" Quantity="1" Sideboard="false" Name="Blast Zone" Annotation="0" />
+  <Cards CatID="72472" Quantity="1" Sideboard="false" Name="Fact or Fiction" Annotation="0" />
+  <Cards CatID="97068" Quantity="1" Sideboard="false" Name="The Reality Chip" Annotation="0" />
+  <Cards CatID="52839" Quantity="1" Sideboard="false" Name="Parallax Wave" Annotation="0" />
+  <Cards CatID="39591" Quantity="1" Sideboard="false" Name="Leonin Relic-Warder" Annotation="0" />
+  <Cards CatID="57880" Quantity="1" Sideboard="false" Name="Jace, Vryn's Prodigy" Annotation="0" />
+  <Cards CatID="38185" Quantity="1" Sideboard="false" Name="Wurmcoil Engine" Annotation="0" />
+  <Cards CatID="25609" Quantity="1" Sideboard="false" Name="Ancestral Vision" Annotation="0" />
+  <Cards CatID="90536" Quantity="1" Sideboard="false" Name="Dauthi Voidwalker" Annotation="0" />
+  <Cards CatID="98311" Quantity="1" Sideboard="false" Name="Ledger Shredder" Annotation="0" />
+  <Cards CatID="112404" Quantity="1" Sideboard="false" Name="Palantír of Orthanc" Annotation="0" />
+  <Cards CatID="124001" Quantity="1" Sideboard="false" Name="Duelist of the Mind" Annotation="0" />
+  <Cards CatID="52810" Quantity="1" Sideboard="false" Name="Memory Jar" Annotation="0" />
+  <Cards CatID="29479" Quantity="1" Sideboard="false" Name="Sunken Ruins" Annotation="0" />
+  <Cards CatID="39778" Quantity="1" Sideboard="false" Name="Spellskite" Annotation="0" />
+  <Cards CatID="116136" Quantity="1" Sideboard="false" Name="Werefox Bodyguard" Annotation="0" />
+  <Cards CatID="60779" Quantity="1" Sideboard="false" Name="Maze of Ith" Annotation="0" />
+  <Cards CatID="9475" Quantity="1" Sideboard="false" Name="Lotus Petal" Annotation="0" />
+  <Cards CatID="39537" Quantity="1" Sideboard="false" Name="Consecrated Sphinx" Annotation="0" />
+  <Cards CatID="143135" Quantity="1" Sideboard="false" Name="Watery Grave" Annotation="0" />
+  <Cards CatID="42512" Quantity="1" Sideboard="false" Name="Snapcaster Mage" Annotation="0" />
+  <Cards CatID="24583" Quantity="1" Sideboard="false" Name="Dark Depths" Annotation="0" />
+  <Cards CatID="67627" Quantity="1" Sideboard="false" Name="Cast Down" Annotation="0" />
+  <Cards CatID="107609" Quantity="1" Sideboard="false" Name="Mystical Tutor" Annotation="0" />
+  <Cards CatID="125965" Quantity="1" Sideboard="false" Name="Toxic Deluge" Annotation="0" />
+  <Cards CatID="71542" Quantity="1" Sideboard="false" Name="Hallowed Fountain" Annotation="0" />
+  <Cards CatID="143770" Quantity="1" Sideboard="false" Name="Thespian's Stage" Annotation="0" />
+  <Cards CatID="123657" Quantity="1" Sideboard="false" Name="Fractured Identity" Annotation="0" />
+  <Cards CatID="90419" Quantity="1" Sideboard="false" Name="Prismatic Ending" Annotation="0" />
+  <Cards CatID="82987" Quantity="1" Sideboard="false" Name="Luminarch Aspirant" Annotation="0" />
+  <Cards CatID="72398" Quantity="1" Sideboard="false" Name="Giver of Runes" Annotation="0" />
+  <Cards CatID="93064" Quantity="1" Sideboard="false" Name="Memory Deluge" Annotation="0" />
+  <Cards CatID="60547" Quantity="1" Sideboard="false" Name="Natural Order" Annotation="0" />
+  <Cards CatID="81635" Quantity="1" Sideboard="false" Name="Scavenging Ooze" Annotation="0" />
+  <Cards CatID="132840" Quantity="1" Sideboard="false" Name="Scythecat Cub" Annotation="0" />
+  <Cards CatID="52817" Quantity="1" Sideboard="false" Name="Yavimaya Hollow" Annotation="0" />
+  <Cards CatID="78458" Quantity="1" Sideboard="false" Name="Gilded Goose" Annotation="0" />
+</Deck>

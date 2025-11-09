@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="90836" Quantity="1" Sideboard="false" Name="Kaldra Compleat" Annotation="0" />
+  <Cards CatID="139874" Quantity="1" Sideboard="false" Name="Urza, Lord High Artificer" Annotation="0" />
+  <Cards CatID="33933" Quantity="1" Sideboard="false" Name="Tinker" Annotation="0" />
+  <Cards CatID="38307" Quantity="1" Sideboard="false" Name="Myr Battlesphere" Annotation="0" />
+  <Cards CatID="20688" Quantity="1" Sideboard="false" Name="Vedalken Shackles" Annotation="0" />
+  <Cards CatID="72074" Quantity="1" Sideboard="false" Name="Saheeli, Sublime Artificer" Annotation="0" />
+  <Cards CatID="82499" Quantity="1" Sideboard="false" Name="Basalt Monolith" Annotation="0" />
+  <Cards CatID="53067" Quantity="1" Sideboard="false" Name="Control Magic" Annotation="0" />
+  <Cards CatID="94432" Quantity="1" Sideboard="false" Name="Hullbreaker Horror" Annotation="0" />
+  <Cards CatID="52803" Quantity="1" Sideboard="false" Name="Frantic Search" Annotation="0" />
+  <Cards CatID="46930" Quantity="1" Sideboard="false" Name="Show and Tell" Annotation="0" />
+  <Cards CatID="80511" Quantity="1" Sideboard="false" Name="Raugrin Triome" Annotation="0" />
+  <Cards CatID="143115" Quantity="1" Sideboard="false" Name="Breeding Pool" Annotation="0" />
+  <Cards CatID="125299" Quantity="1" Sideboard="false" Name="Simulacrum Synthesizer" Annotation="0" />
+  <Cards CatID="107609" Quantity="1" Sideboard="false" Name="Mystical Tutor" Annotation="0" />
+  <Cards CatID="124001" Quantity="1" Sideboard="false" Name="Duelist of the Mind" Annotation="0" />
+  <Cards CatID="26926" Quantity="1" Sideboard="false" Name="Coalition Relic" Annotation="0" />
+  <Cards CatID="25793" Quantity="1" Sideboard="false" Name="Prismatic Lens" Annotation="0" />
+  <Cards CatID="97080" Quantity="1" Sideboard="false" Name="Spell Pierce" Annotation="0" />
+  <Cards CatID="126403" Quantity="1" Sideboard="false" Name="Nadu, Winged Wisdom" Annotation="0" />
+  <Cards CatID="33466" Quantity="1" Sideboard="false" Name="Tropical Island" Annotation="0" />
+  <Cards CatID="62561" Quantity="1" Sideboard="false" Name="Walking Ballista" Annotation="0" />
+  <Cards CatID="30084" Quantity="1" Sideboard="false" Name="Twilight Mire" Annotation="0" />
+  <Cards CatID="29479" Quantity="1" Sideboard="false" Name="Sunken Ruins" Annotation="0" />
+  <Cards CatID="143135" Quantity="1" Sideboard="false" Name="Watery Grave" Annotation="0" />
+  <Cards CatID="53095" Quantity="1" Sideboard="false" Name="Tundra" Annotation="0" />
+  <Cards CatID="78522" Quantity="1" Sideboard="false" Name="Escape to the Wilds" Annotation="0" />
+  <Cards CatID="12551" Quantity="1" Sideboard="false" Name="Grim Monolith" Annotation="0" />
+  <Cards CatID="73351" Quantity="1" Sideboard="false" Name="Golos, Tireless Pilgrim" Annotation="0" />
+  <Cards CatID="30096" Quantity="1" Sideboard="false" Name="Cascade Bluffs" Annotation="0" />
+  <Cards CatID="53356" Quantity="1" Sideboard="false" Name="Phyrexian Revoker" Annotation="0" />
+  <Cards CatID="92016" Quantity="1" Sideboard="false" Name="Hall of Storm Giants" Annotation="0" />
+  <Cards CatID="97068" Quantity="1" Sideboard="false" Name="The Reality Chip" Annotation="0" />
+  <Cards CatID="105104" Quantity="1" Sideboard="false" Name="Portal to Phyrexia" Annotation="0" />
+  <Cards CatID="98719" Quantity="1" Sideboard="false" Name="Jetmir's Garden" Annotation="0" />
+  <Cards CatID="29501" Quantity="1" Sideboard="false" Name="Fire-Lit Thicket" Annotation="0" />
+  <Cards CatID="98413" Quantity="1" Sideboard="false" Name="Tenacious Underdog" Annotation="0" />
+  <Cards CatID="39834" Quantity="1" Sideboard="false" Name="Porcelain Legionnaire" Annotation="0" />
+  <Cards CatID="52637" Quantity="1" Sideboard="false" Name="Dark Ritual" Annotation="0" />
+  <Cards CatID="79582" Quantity="1" Sideboard="false" Name="Uro, Titan of Nature's Wrath" Annotation="0" />
+  <Cards CatID="143485" Quantity="1" Sideboard="false" Name="Blast Zone" Annotation="0" />
+  <Cards CatID="124397" Quantity="1" Sideboard="false" Name="Lavaspur Boots" Annotation="0" />
+  <Cards CatID="52975" Quantity="1" Sideboard="false" Name="Edric, Spymaster of Trest" Annotation="0" />
+  <Cards CatID="71366" Quantity="1" Sideboard="false" Name="Hydroid Krasis" Annotation="0" />
+  <Cards CatID="56866" Quantity="1" Sideboard="false" Name="Volrath's Stronghold" Annotation="0" />
+</Deck>

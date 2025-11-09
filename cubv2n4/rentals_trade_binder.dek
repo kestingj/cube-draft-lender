@@ -1,0 +1,61 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="54198" Quantity="1" Sideboard="false" Name="Bloodstained Mire" Annotation="0" />
+  <Cards CatID="106775" Quantity="1" Sideboard="false" Name="Glimmer Lens" Annotation="0" />
+  <Cards CatID="126093" Quantity="1" Sideboard="false" Name="Ocelot Pride" Annotation="0" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" Annotation="0" />
+  <Cards CatID="127421" Quantity="1" Sideboard="false" Name="Pyrogoyf" Annotation="0" />
+  <Cards CatID="106821" Quantity="1" Sideboard="false" Name="Otharri, Suns' Glory" Annotation="0" />
+  <Cards CatID="110512" Quantity="1" Sideboard="false" Name="Death-Greeter's Champion" Annotation="0" />
+  <Cards CatID="36306" Quantity="1" Sideboard="false" Name="Pernicious Deed" Annotation="0" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" Annotation="0" />
+  <Cards CatID="52697" Quantity="1" Sideboard="false" Name="Ancient Tomb" Annotation="0" />
+  <Cards CatID="111536" Quantity="1" Sideboard="false" Name="Flame of Anor" Annotation="0" />
+  <Cards CatID="30710" Quantity="1" Sideboard="false" Name="Pyrokinesis" Annotation="0" />
+  <Cards CatID="50256" Quantity="1" Sideboard="false" Name="Thoughtseize" Annotation="0" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" Annotation="0" />
+  <Cards CatID="21519" Quantity="1" Sideboard="false" Name="Through the Breach" Annotation="0" />
+  <Cards CatID="132780" Quantity="1" Sideboard="false" Name="Ivora, Insatiable Heir" Annotation="0" />
+  <Cards CatID="122402" Quantity="1" Sideboard="false" Name="Necromancy" Annotation="0" />
+  <Cards CatID="130403" Quantity="1" Sideboard="false" Name="Fear of Missing Out" Annotation="0" />
+  <Cards CatID="91007" Quantity="1" Sideboard="false" Name="Fire // Ice" Annotation="0" />
+  <Cards CatID="98135" Quantity="1" Sideboard="false" Name="Boseiju, Who Endures" Annotation="0" />
+  <Cards CatID="122024" Quantity="1" Sideboard="false" Name="Raucous Theater" Annotation="0" />
+  <Cards CatID="126223" Quantity="1" Sideboard="false" Name="Nethergoyf" Annotation="0" />
+  <Cards CatID="124225" Quantity="1" Sideboard="false" Name="Bristly Bill, Spine Sower" Annotation="0" />
+  <Cards CatID="121446" Quantity="1" Sideboard="false" Name="Thundering Falls" Annotation="0" />
+  <Cards CatID="46930" Quantity="1" Sideboard="false" Name="Show and Tell" Annotation="0" />
+  <Cards CatID="126513" Quantity="1" Sideboard="false" Name="Tamiyo, Inquisitive Student" Annotation="0" />
+  <Cards CatID="37637" Quantity="1" Sideboard="false" Name="Mox Diamond" Annotation="0" />
+  <Cards CatID="99907" Quantity="1" Sideboard="false" Name="Currency Converter" Annotation="0" />
+  <Cards CatID="68810" Quantity="1" Sideboard="false" Name="Spellseeker" Annotation="0" />
+  <Cards CatID="79582" Quantity="1" Sideboard="false" Name="Uro, Titan of Nature's Wrath" Annotation="0" />
+  <Cards CatID="36112" Quantity="1" Sideboard="false" Name="Gaea's Cradle" Annotation="0" />
+  <Cards CatID="70673" Quantity="1" Sideboard="false" Name="Coveted Jewel" Annotation="0" />
+  <Cards CatID="90691" Quantity="1" Sideboard="false" Name="Endurance" Annotation="0" />
+  <Cards CatID="28071" Quantity="1" Sideboard="false" Name="Urza's Bauble" Annotation="0" />
+  <Cards CatID="19831" Quantity="1" Sideboard="false" Name="Chrome Mox" Annotation="0" />
+  <Cards CatID="62221" Quantity="1" Sideboard="false" Name="Time Spiral" Annotation="0" />
+  <Cards CatID="126459" Quantity="1" Sideboard="false" Name="Flooded Strand" Annotation="0" />
+  <Cards CatID="72386" Quantity="1" Sideboard="false" Name="Ephemerate" Annotation="0" />
+  <Cards CatID="12547" Quantity="1" Sideboard="false" Name="Crop Rotation" Annotation="0" />
+  <Cards CatID="60889" Quantity="1" Sideboard="false" Name="Enlightened Tutor" Annotation="0" />
+  <Cards CatID="139633" Quantity="1" Sideboard="false" Name="Ugin, Eye of the Storms" Annotation="0" />
+  <Cards CatID="106607" Quantity="1" Sideboard="false" Name="Atraxa, Grand Unifier" Annotation="0" />
+  <Cards CatID="111590" Quantity="1" Sideboard="false" Name="Orcish Bowmasters" Annotation="0" />
+  <Cards CatID="13495" Quantity="1" Sideboard="false" Name="Snuff Out" Annotation="0" />
+  <Cards CatID="112616" Quantity="1" Sideboard="false" Name="Relic of Sauron" Annotation="0" />
+  <Cards CatID="7297" Quantity="1" Sideboard="false" Name="Shallow Grave" Annotation="0" />
+  <Cards CatID="90525" Quantity="1" Sideboard="false" Name="Bone Shards" Annotation="0" />
+  <Cards CatID="36396" Quantity="1" Sideboard="false" Name="Emrakul, the Aeons Torn" Annotation="0" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" Annotation="0" />
+  <Cards CatID="72806" Quantity="1" Sideboard="false" Name="Wrenn and Six" Annotation="0" />
+  <Cards CatID="60779" Quantity="1" Sideboard="false" Name="Maze of Ith" Annotation="0" />
+  <Cards CatID="9475" Quantity="1" Sideboard="false" Name="Lotus Petal" Annotation="0" />
+  <Cards CatID="90419" Quantity="1" Sideboard="false" Name="Prismatic Ending" Annotation="0" />
+  <Cards CatID="72398" Quantity="1" Sideboard="false" Name="Giver of Runes" Annotation="0" />
+  <Cards CatID="60547" Quantity="1" Sideboard="false" Name="Natural Order" Annotation="0" />
+  <Cards CatID="132840" Quantity="1" Sideboard="false" Name="Scythecat Cub" Annotation="0" />
+</Deck>

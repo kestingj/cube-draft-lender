@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="143762" Quantity="1" Sideboard="false" Name="Strip Mine" Annotation="0" />
+  <Cards CatID="143129" Quantity="1" Sideboard="false" Name="Stomping Ground" Annotation="0" />
+  <Cards CatID="92536" Quantity="1" Sideboard="false" Name="Grim Hireling" Annotation="0" />
+  <Cards CatID="72014" Quantity="1" Sideboard="false" Name="Mayhem Devil" Annotation="0" />
+  <Cards CatID="39796" Quantity="1" Sideboard="false" Name="Birthing Pod" Annotation="0" />
+  <Cards CatID="23084" Quantity="1" Sideboard="false" Name="Dark Confidant" Annotation="0" />
+  <Cards CatID="125325" Quantity="1" Sideboard="false" Name="Sandstorm Salvager" Annotation="0" />
+  <Cards CatID="71530" Quantity="1" Sideboard="false" Name="Blood Crypt" Annotation="0" />
+  <Cards CatID="53107" Quantity="1" Sideboard="false" Name="Hymn to Tourach" Annotation="0" />
+  <Cards CatID="133112" Quantity="1" Sideboard="false" Name="Liliana, Dreadhorde General" Annotation="0" />
+  <Cards CatID="90525" Quantity="1" Sideboard="false" Name="Bone Shards" Annotation="0" />
+  <Cards CatID="78522" Quantity="1" Sideboard="false" Name="Escape to the Wilds" Annotation="0" />
+  <Cards CatID="61959" Quantity="1" Sideboard="false" Name="Noxious Gearhulk" Annotation="0" />
+  <Cards CatID="43640" Quantity="1" Sideboard="false" Name="Pyrokinesis" Annotation="0" />
+  <Cards CatID="55934" Quantity="1" Sideboard="false" Name="Dragonlord Silumgar" Annotation="0" />
+  <Cards CatID="109574" Quantity="1" Sideboard="false" Name="Monastery Mentor" Annotation="0" />
+  <Cards CatID="97080" Quantity="1" Sideboard="false" Name="Spell Pierce" Annotation="0" />
+  <Cards CatID="52989" Quantity="1" Sideboard="false" Name="Animate Dead" Annotation="0" />
+  <Cards CatID="34700" Quantity="1" Sideboard="false" Name="Eldrazi Monument" Annotation="0" />
+  <Cards CatID="90878" Quantity="1" Sideboard="false" Name="Marsh Flats" Annotation="0" />
+  <Cards CatID="21603" Quantity="1" Sideboard="false" Name="Umezawa's Jitte" Annotation="0" />
+  <Cards CatID="12607" Quantity="1" Sideboard="false" Name="Miscalculation" Annotation="0" />
+  <Cards CatID="133488" Quantity="1" Sideboard="false" Name="Reclamation Sage" Annotation="0" />
+  <Cards CatID="91730" Quantity="1" Sideboard="false" Name="Power Word Kill" Annotation="0" />
+  <Cards CatID="126217" Quantity="1" Sideboard="false" Name="Marionette Apprentice" Annotation="0" />
+  <Cards CatID="7649" Quantity="1" Sideboard="false" Name="Necromancy" Annotation="0" />
+  <Cards CatID="39996" Quantity="1" Sideboard="false" Name="Blade Splicer" Annotation="0" />
+  <Cards CatID="87619" Quantity="1" Sideboard="false" Name="Magda, Brazen Outlaw" Annotation="0" />
+  <Cards CatID="34688" Quantity="1" Sideboard="false" Name="Bloodghast" Annotation="0" />
+  <Cards CatID="60828" Quantity="1" Sideboard="false" Name="Unexpectedly Absent" Annotation="0" />
+  <Cards CatID="82499" Quantity="1" Sideboard="false" Name="Basalt Monolith" Annotation="0" />
+  <Cards CatID="44033" Quantity="1" Sideboard="false" Name="Zealous Conscripts" Annotation="0" />
+  <Cards CatID="105104" Quantity="1" Sideboard="false" Name="Portal to Phyrexia" Annotation="0" />
+  <Cards CatID="90578" Quantity="1" Sideboard="false" Name="Tourach, Dread Cantor" Annotation="0" />
+  <Cards CatID="126197" Quantity="1" Sideboard="false" Name="Emperor of Bones" Annotation="0" />
+  <Cards CatID="98631" Quantity="1" Sideboard="false" Name="Ob Nixilis, the Adversary" Annotation="0" />
+  <Cards CatID="44105" Quantity="1" Sideboard="false" Name="Blood Artist" Annotation="0" />
+  <Cards CatID="29501" Quantity="1" Sideboard="false" Name="Fire-Lit Thicket" Annotation="0" />
+  <Cards CatID="133386" Quantity="1" Sideboard="false" Name="Phyrexian Arena" Annotation="0" />
+  <Cards CatID="79370" Quantity="1" Sideboard="false" Name="Woe Strider" Annotation="0" />
+  <Cards CatID="60739" Quantity="1" Sideboard="false" Name="Faithless Looting" Annotation="0" />
+  <Cards CatID="106431" Quantity="1" Sideboard="false" Name="Sheoldred's Edict" Annotation="0" />
+  <Cards CatID="53077" Quantity="1" Sideboard="false" Name="Badlands" Annotation="0" />
+  <Cards CatID="107501" Quantity="1" Sideboard="false" Name="Enlightened Tutor" Annotation="0" />
+  <Cards CatID="31925" Quantity="1" Sideboard="false" Name="Knight of the Reliquary" Annotation="0" />
+</Deck>

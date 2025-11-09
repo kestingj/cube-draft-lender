@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="43815" Quantity="1" Sideboard="false" Name="Terminus" Annotation="0"/>
+  <Cards CatID="46473" Quantity="1" Sideboard="false" Name="Mizzium Mortars" Annotation="0"/>
+  <Cards CatID="28499" Quantity="1" Sideboard="false" Name="Cryptic Command" Annotation="0"/>
+  <Cards CatID="112030" Quantity="1" Sideboard="false" Name="Lórien Revealed" Annotation="0"/>
+  <Cards CatID="80473" Quantity="1" Sideboard="false" Name="Yorion, Sky Nomad" Annotation="0"/>
+  <Cards CatID="93064" Quantity="1" Sideboard="false" Name="Memory Deluge" Annotation="0"/>
+  <Cards CatID="32953" Quantity="1" Sideboard="false" Name="Time Warp" Annotation="0"/>
+  <Cards CatID="37388" Quantity="1" Sideboard="false" Name="Preordain" Annotation="0"/>
+  <Cards CatID="113335" Quantity="1" Sideboard="false" Name="Spellseeker" Annotation="0"/>
+  <Cards CatID="67467" Quantity="1" Sideboard="false" Name="Karn, Scion of Urza" Annotation="0"/>
+  <Cards CatID="29495" Quantity="1" Sideboard="false" Name="Wooded Bastion" Annotation="0"/>
+  <Cards CatID="104942" Quantity="1" Sideboard="false" Name="Mishra&apos;s Research Desk" Annotation="0"/>
+  <Cards CatID="98451" Quantity="1" Sideboard="false" Name="Professional Face-Breaker" Annotation="0"/>
+  <Cards CatID="117480" Quantity="1" Sideboard="false" Name="Inti, Seneschal of the Sun" Annotation="0"/>
+  <Cards CatID="35773" Quantity="1" Sideboard="false" Name="Arbor Elf" Annotation="0"/>
+  <Cards CatID="42512" Quantity="1" Sideboard="false" Name="Snapcaster Mage" Annotation="0"/>
+  <Cards CatID="80511" Quantity="1" Sideboard="false" Name="Raugrin Triome" Annotation="0"/>
+  <Cards CatID="97434" Quantity="1" Sideboard="false" Name="Circuit Mender" Annotation="0"/>
+  <Cards CatID="23174" Quantity="1" Sideboard="false" Name="Remand" Annotation="0"/>
+  <Cards CatID="103860" Quantity="1" Sideboard="false" Name="Fiery Confluence" Annotation="0"/>
+  <Cards CatID="90647" Quantity="1" Sideboard="false" Name="Mine Collapse" Annotation="0"/>
+  <Cards CatID="32833" Quantity="1" Sideboard="false" Name="Master of the Wild Hunt" Annotation="0"/>
+  <Cards CatID="96258" Quantity="1" Sideboard="false" Name="Intrepid Adversary" Annotation="0"/>
+  <Cards CatID="72014" Quantity="1" Sideboard="false" Name="Mayhem Devil" Annotation="0"/>
+  <Cards CatID="122012" Quantity="1" Sideboard="false" Name="Elegant Parlor" Annotation="0"/>
+  <Cards CatID="98719" Quantity="1" Sideboard="false" Name="Jetmir&apos;s Garden" Annotation="0"/>
+  <Cards CatID="39936" Quantity="1" Sideboard="false" Name="Act of Aggression" Annotation="0"/>
+  <Cards CatID="105068" Quantity="1" Sideboard="false" Name="Third Path Iconoclast" Annotation="0"/>
+  <Cards CatID="20688" Quantity="1" Sideboard="false" Name="Vedalken Shackles" Annotation="0"/>
+  <Cards CatID="100384" Quantity="1" Sideboard="false" Name="Gut, True Soul Zealot" Annotation="0"/>
+  <Cards CatID="18247" Quantity="1" Sideboard="false" Name="Polluted Delta" Annotation="0"/>
+  <Cards CatID="88879" Quantity="1" Sideboard="false" Name="Expressive Iteration" Annotation="0"/>
+  <Cards CatID="13157" Quantity="1" Sideboard="false" Name="Brainstorm" Annotation="0"/>
+  <Cards CatID="118080" Quantity="1" Sideboard="false" Name="Bonehoard Dracosaur" Annotation="0"/>
+  <Cards CatID="35657" Quantity="1" Sideboard="false" Name="Creeping Tar Pit" Annotation="0"/>
+  <Cards CatID="72800" Quantity="1" Sideboard="false" Name="Soulherder" Annotation="0"/>
+  <Cards CatID="69677" Quantity="1" Sideboard="false" Name="Assassin&apos;s Trophy" Annotation="0"/>
+  <Cards CatID="29074" Quantity="1" Sideboard="false" Name="Mutavault" Annotation="0"/>
+  <Cards CatID="101598" Quantity="1" Sideboard="false" Name="Mana Drain" Annotation="0"/>
+  <Cards CatID="71788" Quantity="1" Sideboard="false" Name="Finale of Eternity" Annotation="0"/>
+  <Cards CatID="125943" Quantity="1" Sideboard="false" Name="Recruiter of the Guard" Annotation="0"/>
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" Annotation="0"/>
+  <Cards CatID="130851" Quantity="1" Sideboard="false" Name="Counterspell" Annotation="0"/>
+  <Cards CatID="138133" Quantity="1" Sideboard="false" Name="Young Pyromancer" Annotation="0"/>
+  <Cards CatID="115281" Quantity="1" Sideboard="false" Name="Fact or Fiction" Annotation="0"/>
+</Deck>

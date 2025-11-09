@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="139633" Quantity="1" Sideboard="false" Name="Ugin, Eye of the Storms" Annotation="0" />
+  <Cards CatID="52726" Quantity="1" Sideboard="false" Name="Recurring Nightmare" Annotation="0" />
+  <Cards CatID="106607" Quantity="1" Sideboard="false" Name="Atraxa, Grand Unifier" Annotation="0" />
+  <Cards CatID="111590" Quantity="1" Sideboard="false" Name="Orcish Bowmasters" Annotation="0" />
+  <Cards CatID="13495" Quantity="1" Sideboard="false" Name="Snuff Out" Annotation="0" />
+  <Cards CatID="83375" Quantity="1" Sideboard="false" Name="Lotus Cobra" Annotation="0" />
+  <Cards CatID="35639" Quantity="1" Sideboard="false" Name="Celestial Colonnade" Annotation="0" />
+  <Cards CatID="112616" Quantity="1" Sideboard="false" Name="Relic of Sauron" Annotation="0" />
+  <Cards CatID="98733" Quantity="1" Sideboard="false" Name="Spara's Headquarters" Annotation="0" />
+  <Cards CatID="7297" Quantity="1" Sideboard="false" Name="Shallow Grave" Annotation="0" />
+  <Cards CatID="90525" Quantity="1" Sideboard="false" Name="Bone Shards" Annotation="0" />
+  <Cards CatID="27112" Quantity="1" Sideboard="false" Name="Treetop Village" Annotation="0" />
+  <Cards CatID="36396" Quantity="1" Sideboard="false" Name="Emrakul, the Aeons Torn" Annotation="0" />
+  <Cards CatID="35115" Quantity="1" Sideboard="false" Name="Wall of Roots" Annotation="0" />
+  <Cards CatID="90782" Quantity="1" Sideboard="false" Name="Grist, the Hunger Tide" Annotation="0" />
+  <Cards CatID="118595" Quantity="1" Sideboard="false" Name="Lightning Greaves" Annotation="0" />
+  <Cards CatID="89157" Quantity="1" Sideboard="false" Name="Channel" Annotation="0" />
+  <Cards CatID="36628" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" Annotation="0" />
+  <Cards CatID="57310" Quantity="1" Sideboard="false" Name="Karn Liberated" Annotation="0" />
+  <Cards CatID="53079" Quantity="1" Sideboard="false" Name="Bayou" Annotation="0" />
+  <Cards CatID="78482" Quantity="1" Sideboard="false" Name="Questing Beast" Annotation="0" />
+  <Cards CatID="32833" Quantity="1" Sideboard="false" Name="Master of the Wild Hunt" Annotation="0" />
+  <Cards CatID="91009" Quantity="1" Sideboard="false" Name="Mirari's Wake" Annotation="0" />
+  <Cards CatID="139960" Quantity="1" Sideboard="false" Name="Primeval Titan" Annotation="0" />
+  <Cards CatID="130178" Quantity="1" Sideboard="false" Name="Overlord of the Mistmoors" Annotation="0" />
+  <Cards CatID="78460" Quantity="1" Sideboard="false" Name="The Great Henge" Annotation="0" />
+  <Cards CatID="125445" Quantity="1" Sideboard="false" Name="Vaultborn Tyrant" Annotation="0" />
+  <Cards CatID="35773" Quantity="1" Sideboard="false" Name="Arbor Elf" Annotation="0" />
+  <Cards CatID="103536" Quantity="1" Sideboard="false" Name="Torsten, Founder of Benalia" Annotation="0" />
+  <Cards CatID="126007" Quantity="1" Sideboard="false" Name="Worn Powerstone" Annotation="0" />
+  <Cards CatID="90836" Quantity="1" Sideboard="false" Name="Kaldra Compleat" Annotation="0" />
+  <Cards CatID="80509" Quantity="1" Sideboard="false" Name="Ketria Triome" Annotation="0" />
+  <Cards CatID="19301" Quantity="1" Sideboard="false" Name="City of Brass" Annotation="0" />
+  <Cards CatID="80333" Quantity="1" Sideboard="false" Name="Kogla, the Titan Ape" Annotation="0" />
+  <Cards CatID="48302" Quantity="1" Sideboard="false" Name="Voice of Resurgence" Annotation="0" />
+  <Cards CatID="35715" Quantity="1" Sideboard="false" Name="Avenger of Zendikar" Annotation="0" />
+  <Cards CatID="102842" Quantity="1" Sideboard="false" Name="Tear Asunder" Annotation="0" />
+  <Cards CatID="32388" Quantity="1" Sideboard="false" Name="Maelstrom Pulse" Annotation="0" />
+  <Cards CatID="78522" Quantity="1" Sideboard="false" Name="Escape to the Wilds" Annotation="0" />
+  <Cards CatID="52856" Quantity="1" Sideboard="false" Name="Berserk" Annotation="0" />
+  <Cards CatID="92942" Quantity="1" Sideboard="false" Name="Cathar Commando" Annotation="0" />
+  <Cards CatID="23020" Quantity="1" Sideboard="false" Name="Faith's Fetters" Annotation="0" />
+  <Cards CatID="71926" Quantity="1" Sideboard="false" Name="Finale of Devastation" Annotation="0" />
+  <Cards CatID="55976" Quantity="1" Sideboard="false" Name="Dragonlord Atarka" Annotation="0" />
+  <Cards CatID="72806" Quantity="1" Sideboard="false" Name="Wrenn and Six" Annotation="0" />
+</Deck>

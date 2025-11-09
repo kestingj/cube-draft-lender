@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="90878" Quantity="1" Sideboard="false" Name="Marsh Flats" Annotation="0" />
+  <Cards CatID="43359" Quantity="1" Sideboard="false" Name="Lingering Souls" Annotation="0" />
+  <Cards CatID="91015" Quantity="1" Sideboard="false" Name="Vindicate" Annotation="0" />
+  <Cards CatID="52910" Quantity="1" Sideboard="false" Name="Swords to Plowshares" Annotation="0" />
+  <Cards CatID="90533" Quantity="1" Sideboard="false" Name="Damn" Annotation="0" />
+  <Cards CatID="23084" Quantity="1" Sideboard="false" Name="Dark Confidant" Annotation="0" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" Annotation="0" />
+  <Cards CatID="121446" Quantity="1" Sideboard="false" Name="Thundering Falls" Annotation="0" />
+  <Cards CatID="106607" Quantity="1" Sideboard="false" Name="Atraxa, Grand Unifier" Annotation="0" />
+  <Cards CatID="90433" Quantity="1" Sideboard="false" Name="Solitude" Annotation="0" />
+  <Cards CatID="52695" Quantity="1" Sideboard="false" Name="Reanimate" Annotation="0" />
+  <Cards CatID="92942" Quantity="1" Sideboard="false" Name="Cathar Commando" Annotation="0" />
+  <Cards CatID="90536" Quantity="1" Sideboard="false" Name="Dauthi Voidwalker" Annotation="0" />
+  <Cards CatID="96998" Quantity="1" Sideboard="false" Name="The Wandering Emperor" Annotation="0" />
+  <Cards CatID="72386" Quantity="1" Sideboard="false" Name="Ephemerate" Annotation="0" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" Annotation="0" />
+  <Cards CatID="126076" Quantity="1" Sideboard="false" Name="Guide of Souls" Annotation="0" />
+  <Cards CatID="32388" Quantity="1" Sideboard="false" Name="Maelstrom Pulse" Annotation="0" />
+  <Cards CatID="112296" Quantity="1" Sideboard="false" Name="Arwen, Mortal Queen" Annotation="0" />
+  <Cards CatID="124075" Quantity="1" Sideboard="false" Name="Caustic Bronco" Annotation="0" />
+  <Cards CatID="30084" Quantity="1" Sideboard="false" Name="Twilight Mire" Annotation="0" />
+  <Cards CatID="52975" Quantity="1" Sideboard="false" Name="Edric, Spymaster of Trest" Annotation="0" />
+  <Cards CatID="53095" Quantity="1" Sideboard="false" Name="Tundra" Annotation="0" />
+  <Cards CatID="90870" Quantity="1" Sideboard="false" Name="Arid Mesa" Annotation="0" />
+  <Cards CatID="69929" Quantity="1" Sideboard="false" Name="Temple Garden" Annotation="0" />
+  <Cards CatID="52849" Quantity="1" Sideboard="false" Name="Demonic Tutor" Annotation="0" />
+  <Cards CatID="90902" Quantity="1" Sideboard="false" Name="Verdant Catacombs" Annotation="0" />
+  <Cards CatID="126403" Quantity="1" Sideboard="false" Name="Nadu, Winged Wisdom" Annotation="0" />
+  <Cards CatID="126417" Quantity="1" Sideboard="false" Name="Psychic Frog" Annotation="0" />
+  <Cards CatID="125381" Quantity="1" Sideboard="false" Name="Hostile Investigator" Annotation="0" />
+  <Cards CatID="78538" Quantity="1" Sideboard="false" Name="Oko, Thief of Crowns" Annotation="0" />
+  <Cards CatID="72398" Quantity="1" Sideboard="false" Name="Giver of Runes" Annotation="0" />
+  <Cards CatID="125503" Quantity="1" Sideboard="false" Name="Six" Annotation="0" />
+  <Cards CatID="91730" Quantity="1" Sideboard="false" Name="Power Word Kill" Annotation="0" />
+  <Cards CatID="90419" Quantity="1" Sideboard="false" Name="Prismatic Ending" Annotation="0" />
+  <Cards CatID="121290" Quantity="1" Sideboard="false" Name="Assassin's Trophy" Annotation="0" />
+  <Cards CatID="26844" Quantity="1" Sideboard="false" Name="Tarmogoyf" Annotation="0" />
+  <Cards CatID="35639" Quantity="1" Sideboard="false" Name="Celestial Colonnade" Annotation="0" />
+  <Cards CatID="111536" Quantity="1" Sideboard="false" Name="Flame of Anor" Annotation="0" />
+  <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" Annotation="0" />
+  <Cards CatID="127421" Quantity="1" Sideboard="false" Name="Pyrogoyf" Annotation="0" />
+  <Cards CatID="60887" Quantity="1" Sideboard="false" Name="Force of Will" Annotation="0" />
+  <Cards CatID="55874" Quantity="1" Sideboard="false" Name="Wasteland" Annotation="0" />
+  <Cards CatID="72472" Quantity="1" Sideboard="false" Name="Fact or Fiction" Annotation="0" />
+  <Cards CatID="54300" Quantity="1" Sideboard="false" Name="Treasure Cruise" Annotation="0" />
+</Deck>

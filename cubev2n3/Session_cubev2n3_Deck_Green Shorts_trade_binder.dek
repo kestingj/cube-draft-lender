@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="87677" Quantity="1" Sideboard="false" Name="Esika's Chariot" Annotation="0" />
+  <Cards CatID="125781" Quantity="1" Sideboard="false" Name="Ajani, Nacatl Pariah" Annotation="0" />
+  <Cards CatID="32833" Quantity="1" Sideboard="false" Name="Master of the Wild Hunt" Annotation="0" />
+  <Cards CatID="126076" Quantity="1" Sideboard="false" Name="Guide of Souls" Annotation="0" />
+  <Cards CatID="130144" Quantity="1" Sideboard="false" Name="Enduring Innocence" Annotation="0" />
+  <Cards CatID="33919" Quantity="1" Sideboard="false" Name="Balance" Annotation="0" />
+  <Cards CatID="80333" Quantity="1" Sideboard="false" Name="Kogla, the Titan Ape" Annotation="0" />
+  <Cards CatID="135469" Quantity="1" Sideboard="false" Name="Wedding Announcement" Annotation="0" />
+  <Cards CatID="125325" Quantity="1" Sideboard="false" Name="Sandstorm Salvager" Annotation="0" />
+  <Cards CatID="96980" Quantity="1" Sideboard="false" Name="The Restoration of Eiganjo" Annotation="0" />
+  <Cards CatID="31731" Quantity="1" Sideboard="false" Name="Martial Coup" Annotation="0" />
+  <Cards CatID="29048" Quantity="1" Sideboard="false" Name="Reveillark" Annotation="0" />
+  <Cards CatID="39591" Quantity="1" Sideboard="false" Name="Leonin Relic-Warder" Annotation="0" />
+  <Cards CatID="19831" Quantity="1" Sideboard="false" Name="Chrome Mox" Annotation="0" />
+  <Cards CatID="57632" Quantity="1" Sideboard="false" Name="Knight of the White Orchid" Annotation="0" />
+  <Cards CatID="81585" Quantity="1" Sideboard="false" Name="Elder Gargaroth" Annotation="0" />
+  <Cards CatID="32284" Quantity="1" Sideboard="false" Name="Qasali Pridemage" Annotation="0" />
+  <Cards CatID="36408" Quantity="1" Sideboard="false" Name="Joraga Treespeaker" Annotation="0" />
+  <Cards CatID="112296" Quantity="1" Sideboard="false" Name="Arwen, Mortal Queen" Annotation="0" />
+  <Cards CatID="90870" Quantity="1" Sideboard="false" Name="Arid Mesa" Annotation="0" />
+  <Cards CatID="91009" Quantity="1" Sideboard="false" Name="Mirari's Wake" Annotation="0" />
+  <Cards CatID="29495" Quantity="1" Sideboard="false" Name="Wooded Bastion" Annotation="0" />
+  <Cards CatID="125811" Quantity="1" Sideboard="false" Name="Ocelot Pride" Annotation="0" />
+  <Cards CatID="111762" Quantity="1" Sideboard="false" Name="Delighted Halfling" Annotation="0" />
+  <Cards CatID="98279" Quantity="1" Sideboard="false" Name="Sanctuary Warden" Annotation="0" />
+  <Cards CatID="31413" Quantity="1" Sideboard="false" Name="Armageddon" Annotation="0" />
+  <Cards CatID="57876" Quantity="1" Sideboard="false" Name="Kytheon, Hero of Akros" Annotation="0" />
+  <Cards CatID="94812" Quantity="1" Sideboard="false" Name="Ulvenwald Oddity" Annotation="0" />
+  <Cards CatID="126371" Quantity="1" Sideboard="false" Name="Abstruse Appropriation" Annotation="0" />
+  <Cards CatID="42762" Quantity="1" Sideboard="false" Name="Mikaeus, the Lunarch" Annotation="0" />
+  <Cards CatID="131962" Quantity="1" Sideboard="false" Name="Path to Exile" Annotation="0" />
+  <Cards CatID="23054" Quantity="1" Sideboard="false" Name="Birds of Paradise" Annotation="0" />
+  <Cards CatID="96998" Quantity="1" Sideboard="false" Name="The Wandering Emperor" Annotation="0" />
+  <Cards CatID="39712" Quantity="1" Sideboard="false" Name="Elesh Norn, Grand Cenobite" Annotation="0" />
+  <Cards CatID="50304" Quantity="1" Sideboard="false" Name="Elspeth, Sun's Champion" Annotation="0" />
+  <Cards CatID="123797" Quantity="1" Sideboard="false" Name="Bristly Bill, Spine Sower" Annotation="0" />
+  <Cards CatID="98733" Quantity="1" Sideboard="false" Name="Spara's Headquarters" Annotation="0" />
+  <Cards CatID="94204" Quantity="1" Sideboard="false" Name="Thalia, Guardian of Thraben" Annotation="0" />
+  <Cards CatID="43614" Quantity="1" Sideboard="false" Name="Savannah" Annotation="0" />
+  <Cards CatID="29493" Quantity="1" Sideboard="false" Name="Mystic Gate" Annotation="0" />
+  <Cards CatID="125849" Quantity="1" Sideboard="false" Name="Springheart Nantuko" Annotation="0" />
+  <Cards CatID="45724" Quantity="1" Sideboard="false" Name="Farseek" Annotation="0" />
+  <Cards CatID="143125" Quantity="1" Sideboard="false" Name="Sacred Foundry" Annotation="0" />
+  <Cards CatID="43815" Quantity="1" Sideboard="false" Name="Terminus" Annotation="0" />
+  <Cards CatID="131393" Quantity="1" Sideboard="false" Name="Ursine Monstrosity" Annotation="0" />
+</Deck>

@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="97210" Quantity="1" Sideboard="false" Name="Fable of the Mirror-Breaker" Annotation="0" />
+  <Cards CatID="54200" Quantity="1" Sideboard="false" Name="Wooded Foothills" Annotation="0" />
+  <Cards CatID="32833" Quantity="1" Sideboard="false" Name="Master of the Wild Hunt" Annotation="0" />
+  <Cards CatID="53067" Quantity="1" Sideboard="false" Name="Control Magic" Annotation="0" />
+  <Cards CatID="37388" Quantity="1" Sideboard="false" Name="Preordain" Annotation="0" />
+  <Cards CatID="143115" Quantity="1" Sideboard="false" Name="Breeding Pool" Annotation="0" />
+  <Cards CatID="127443" Quantity="1" Sideboard="false" Name="Bloodbraid Challenger" Annotation="0" />
+  <Cards CatID="123419" Quantity="1" Sideboard="false" Name="Headliner Scarlett" Annotation="0" />
+  <Cards CatID="122010" Quantity="1" Sideboard="false" Name="Commercial District" Annotation="0" />
+  <Cards CatID="82678" Quantity="1" Sideboard="false" Name="Maze of Ith" Annotation="0" />
+  <Cards CatID="104946" Quantity="1" Sideboard="false" Name="Scrapwork Mutt" Annotation="0" />
+  <Cards CatID="90647" Quantity="1" Sideboard="false" Name="Mine Collapse" Annotation="0" />
+  <Cards CatID="142323" Quantity="1" Sideboard="false" Name="Beast Within" Annotation="0" />
+  <Cards CatID="80475" Quantity="1" Sideboard="false" Name="Zirda, the Dawnwaker" Annotation="0" />
+  <Cards CatID="53215" Quantity="1" Sideboard="false" Name="Living Death" Annotation="0" />
+  <Cards CatID="55976" Quantity="1" Sideboard="false" Name="Dragonlord Atarka" Annotation="0" />
+  <Cards CatID="110512" Quantity="1" Sideboard="false" Name="Death-Greeter's Champion" Annotation="0" />
+  <Cards CatID="100384" Quantity="1" Sideboard="false" Name="Gut, True Soul Zealot" Annotation="0" />
+  <Cards CatID="117632" Quantity="1" Sideboard="false" Name="Sentinel of the Nameless City" Annotation="0" />
+  <Cards CatID="78538" Quantity="1" Sideboard="false" Name="Oko, Thief of Crowns" Annotation="0" />
+  <Cards CatID="125503" Quantity="1" Sideboard="false" Name="Six" Annotation="0" />
+  <Cards CatID="26357" Quantity="1" Sideboard="false" Name="Simian Spirit Guide" Annotation="0" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" Annotation="0" />
+  <Cards CatID="69739" Quantity="1" Sideboard="false" Name="Knight of Autumn" Annotation="0" />
+  <Cards CatID="122034" Quantity="1" Sideboard="false" Name="Underground Mortuary" Annotation="0" />
+  <Cards CatID="29495" Quantity="1" Sideboard="false" Name="Wooded Bastion" Annotation="0" />
+  <Cards CatID="62795" Quantity="1" Sideboard="false" Name="Rishkar, Peema Renegade" Annotation="0" />
+  <Cards CatID="125963" Quantity="1" Sideboard="false" Name="Ophiomancer" Annotation="0" />
+  <Cards CatID="78364" Quantity="1" Sideboard="false" Name="Embercleave" Annotation="0" />
+  <Cards CatID="116136" Quantity="1" Sideboard="false" Name="Werefox Bodyguard" Annotation="0" />
+  <Cards CatID="130387" Quantity="1" Sideboard="false" Name="Chainsaw" Annotation="0" />
+  <Cards CatID="90507" Quantity="1" Sideboard="false" Name="Subtlety" Annotation="0" />
+  <Cards CatID="102317" Quantity="1" Sideboard="false" Name="Wrenn and Six" Annotation="0" />
+  <Cards CatID="125849" Quantity="1" Sideboard="false" Name="Springheart Nantuko" Annotation="0" />
+  <Cards CatID="53093" Quantity="1" Sideboard="false" Name="Tropical Island" Annotation="0" />
+  <Cards CatID="90997" Quantity="1" Sideboard="false" Name="Titania, Protector of Argoth" Annotation="0" />
+  <Cards CatID="19301" Quantity="1" Sideboard="false" Name="City of Brass" Annotation="0" />
+  <Cards CatID="35115" Quantity="1" Sideboard="false" Name="Wall of Roots" Annotation="0" />
+  <Cards CatID="90667" Quantity="1" Sideboard="false" Name="Unholy Heat" Annotation="0" />
+  <Cards CatID="65012" Quantity="1" Sideboard="false" Name="Adanto Vanguard" Annotation="0" />
+  <Cards CatID="133410" Quantity="1" Sideboard="false" Name="Burst Lightning" Annotation="0" />
+  <Cards CatID="94204" Quantity="1" Sideboard="false" Name="Thalia, Guardian of Thraben" Annotation="0" />
+  <Cards CatID="44125" Quantity="1" Sideboard="false" Name="Griselbrand" Annotation="0" />
+  <Cards CatID="125445" Quantity="1" Sideboard="false" Name="Vaultborn Tyrant" Annotation="0" />
+  <Cards CatID="102842" Quantity="1" Sideboard="false" Name="Tear Asunder" Annotation="0" />
+</Deck>

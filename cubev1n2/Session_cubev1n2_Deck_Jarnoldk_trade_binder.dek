@@ -1,0 +1,50 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="89157" Quantity="1" Sideboard="false" Name="Channel" Annotation="0" />
+  <Cards CatID="38307" Quantity="1" Sideboard="false" Name="Myr Battlesphere" Annotation="0" />
+  <Cards CatID="78460" Quantity="1" Sideboard="false" Name="The Great Henge" Annotation="0" />
+  <Cards CatID="55763" Quantity="1" Sideboard="false" Name="Ugin, the Spirit Dragon" Annotation="0" />
+  <Cards CatID="62795" Quantity="1" Sideboard="false" Name="Rishkar, Peema Renegade" Annotation="0" />
+  <Cards CatID="97460" Quantity="1" Sideboard="false" Name="Reckoner Bankbuster" Annotation="0" />
+  <Cards CatID="125849" Quantity="1" Sideboard="false" Name="Springheart Nantuko" Annotation="0" />
+  <Cards CatID="133488" Quantity="1" Sideboard="false" Name="Reclamation Sage" Annotation="0" />
+  <Cards CatID="128917" Quantity="1" Sideboard="false" Name="Jacked Rabbit" Annotation="0" />
+  <Cards CatID="81585" Quantity="1" Sideboard="false" Name="Elder Gargaroth" Annotation="0" />
+  <Cards CatID="83375" Quantity="1" Sideboard="false" Name="Lotus Cobra" Annotation="0" />
+  <Cards CatID="125325" Quantity="1" Sideboard="false" Name="Sandstorm Salvager" Annotation="0" />
+  <Cards CatID="53238" Quantity="1" Sideboard="false" Name="Fastbond" Annotation="0" />
+  <Cards CatID="80333" Quantity="1" Sideboard="false" Name="Kogla, the Titan Ape" Annotation="0" />
+  <Cards CatID="112404" Quantity="1" Sideboard="false" Name="Palantír of Orthanc" Annotation="0" />
+  <Cards CatID="58301" Quantity="1" Sideboard="false" Name="Ulamog, the Ceaseless Hunger" Annotation="0" />
+  <Cards CatID="35675" Quantity="1" Sideboard="false" Name="Raging Ravine" Annotation="0" />
+  <Cards CatID="111762" Quantity="1" Sideboard="false" Name="Delighted Halfling" Annotation="0" />
+  <Cards CatID="117632" Quantity="1" Sideboard="false" Name="Sentinel of the Nameless City" Annotation="0" />
+  <Cards CatID="52837" Quantity="1" Sideboard="false" Name="Survival of the Fittest" Annotation="0" />
+  <Cards CatID="126475" Quantity="1" Sideboard="false" Name="Shifting Woodland" Annotation="0" />
+  <Cards CatID="71944" Quantity="1" Sideboard="false" Name="Nissa, Who Shakes the World" Annotation="0" />
+  <Cards CatID="53161" Quantity="1" Sideboard="false" Name="Mana Vault" Annotation="0" />
+  <Cards CatID="29613" Quantity="1" Sideboard="false" Name="Reflecting Pool" Annotation="0" />
+  <Cards CatID="52816" Quantity="1" Sideboard="false" Name="Rofellos, Llanowar Emissary" Annotation="0" />
+  <Cards CatID="36628" Quantity="1" Sideboard="false" Name="Kozilek, Butcher of Truth" Annotation="0" />
+  <Cards CatID="53089" Quantity="1" Sideboard="false" Name="Taiga" Annotation="0" />
+  <Cards CatID="98135" Quantity="1" Sideboard="false" Name="Boseiju, Who Endures" Annotation="0" />
+  <Cards CatID="20856" Quantity="1" Sideboard="false" Name="Eternal Witness" Annotation="0" />
+  <Cards CatID="20535" Quantity="1" Sideboard="false" Name="Sword of Fire and Ice" Annotation="0" />
+  <Cards CatID="90904" Quantity="1" Sideboard="false" Name="Yavimaya, Cradle of Growth" Annotation="0" />
+  <Cards CatID="115315" Quantity="1" Sideboard="false" Name="Mystic Confluence" Annotation="0" />
+  <Cards CatID="30098" Quantity="1" Sideboard="false" Name="Rugged Prairie" Annotation="0" />
+  <Cards CatID="106821" Quantity="1" Sideboard="false" Name="Otharri, Suns' Glory" Annotation="0" />
+  <Cards CatID="35699" Quantity="1" Sideboard="false" Name="Nature's Claim" Annotation="0" />
+  <Cards CatID="142998" Quantity="1" Sideboard="false" Name="Icetill Explorer" Annotation="0" />
+  <Cards CatID="72722" Quantity="1" Sideboard="false" Name="Regrowth" Annotation="0" />
+  <Cards CatID="28499" Quantity="1" Sideboard="false" Name="Cryptic Command" Annotation="0" />
+  <Cards CatID="53071" Quantity="1" Sideboard="false" Name="Fireblast" Annotation="0" />
+  <Cards CatID="59177" Quantity="1" Sideboard="false" Name="Fiery Confluence" Annotation="0" />
+  <Cards CatID="21021" Quantity="1" Sideboard="false" Name="Kiki-Jiki, Mirror Breaker" Annotation="0" />
+  <Cards CatID="78522" Quantity="1" Sideboard="false" Name="Escape to the Wilds" Annotation="0" />
+  <Cards CatID="127443" Quantity="1" Sideboard="false" Name="Bloodbraid Challenger" Annotation="0" />
+  <Cards CatID="109508" Quantity="1" Sideboard="false" Name="Etali, Primal Conqueror" Annotation="0" />
+  <Cards CatID="55976" Quantity="1" Sideboard="false" Name="Dragonlord Atarka" Annotation="0" />
+</Deck>

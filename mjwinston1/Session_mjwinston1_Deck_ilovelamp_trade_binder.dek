@@ -1,0 +1,47 @@
+<?xml version='1.0' encoding='utf-8'?>
+<Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <NetDeckID>0</NetDeckID>
+  <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="112576" Quantity="1" Sideboard="false" Name="Forth Eorlingas!" Annotation="0" />
+  <Cards CatID="103396" Quantity="1" Sideboard="false" Name="Leyline Binding" Annotation="0" />
+  <Cards CatID="19871" Quantity="1" Sideboard="false" Name="Aether Spellbomb" Annotation="0" />
+  <Cards CatID="90653" Quantity="1" Sideboard="false" Name="Ragavan, Nimble Pilferer" Annotation="0" />
+  <Cards CatID="21603" Quantity="1" Sideboard="false" Name="Umezawa's Jitte" Annotation="0" />
+  <Cards CatID="122030" Quantity="1" Sideboard="false" Name="Thundering Falls" Annotation="0" />
+  <Cards CatID="72616" Quantity="1" Sideboard="false" Name="Firebolt" Annotation="0" />
+  <Cards CatID="90882" Quantity="1" Sideboard="false" Name="Misty Rainforest" Annotation="0" />
+  <Cards CatID="27759" Quantity="1" Sideboard="false" Name="Chromatic Star" Annotation="0" />
+  <Cards CatID="53181" Quantity="1" Sideboard="false" Name="Council's Judgment" Annotation="0" />
+  <Cards CatID="107715" Quantity="1" Sideboard="false" Name="Chain Lightning" Annotation="0" />
+  <Cards CatID="94710" Quantity="1" Sideboard="false" Name="Voldaren Epicure" Annotation="0" />
+  <Cards CatID="105068" Quantity="1" Sideboard="false" Name="Third Path Iconoclast" Annotation="0" />
+  <Cards CatID="126743" Quantity="1" Sideboard="false" Name="Satya, Aetherflux Genius" Annotation="0" />
+  <Cards CatID="87613" Quantity="1" Sideboard="false" Name="Goldspan Dragon" Annotation="0" />
+  <Cards CatID="100608" Quantity="1" Sideboard="false" Name="Minsc &amp; Boo, Timeless Heroes" Annotation="0" />
+  <Cards CatID="120645" Quantity="1" Sideboard="false" Name="Remand" Annotation="0" />
+  <Cards CatID="53085" Quantity="1" Sideboard="false" Name="Savannah" Annotation="0" />
+  <Cards CatID="126417" Quantity="1" Sideboard="false" Name="Psychic Frog" Annotation="0" />
+  <Cards CatID="53243" Quantity="1" Sideboard="false" Name="Mox Ruby" Annotation="0" />
+  <Cards CatID="37388" Quantity="1" Sideboard="false" Name="Preordain" Annotation="0" />
+  <Cards CatID="91151" Quantity="1" Sideboard="false" Name="Scalding Tarn" Annotation="0" />
+  <Cards CatID="59649" Quantity="1" Sideboard="false" Name="Mother of Runes" Annotation="0" />
+  <Cards CatID="117718" Quantity="1" Sideboard="false" Name="Bonehoard Dracosaur" Annotation="0" />
+  <Cards CatID="78538" Quantity="1" Sideboard="false" Name="Oko, Thief of Crowns" Annotation="0" />
+  <Cards CatID="43616" Quantity="1" Sideboard="false" Name="Scrubland" Annotation="0" />
+  <Cards CatID="115992" Quantity="1" Sideboard="false" Name="Virtue of Loyalty" Annotation="0" />
+  <Cards CatID="125411" Quantity="1" Sideboard="false" Name="Nexus of Becoming" Annotation="0" />
+  <Cards CatID="54196" Quantity="1" Sideboard="false" Name="Polluted Delta" Annotation="0" />
+  <Cards CatID="111762" Quantity="1" Sideboard="false" Name="Delighted Halfling" Annotation="0" />
+  <Cards CatID="135894" Quantity="1" Sideboard="false" Name="Bloodtithe Harvester" Annotation="0" />
+  <Cards CatID="90963" Quantity="1" Sideboard="false" Name="Upheaval" Annotation="0" />
+  <Cards CatID="28031" Quantity="1" Sideboard="false" Name="Fyndhorn Elves" Annotation="0" />
+  <Cards CatID="109564" Quantity="1" Sideboard="false" Name="Slimefoot and Squee" Annotation="0" />
+  <Cards CatID="18932" Quantity="1" Sideboard="false" Name="Brain Freeze" Annotation="0" />
+  <Cards CatID="139247" Quantity="1" Sideboard="false" Name="Heritage Reclamation" Annotation="0" />
+  <Cards CatID="17191" Quantity="1" Sideboard="false" Name="Cabal Ritual" Annotation="0" />
+  <Cards CatID="126357" Quantity="1" Sideboard="false" Name="Sowing Mycospawn" Annotation="0" />
+  <Cards CatID="55930" Quantity="1" Sideboard="false" Name="Duress" Annotation="0" />
+  <Cards CatID="71764" Quantity="1" Sideboard="false" Name="Bolas's Citadel" Annotation="0" />
+  <Cards CatID="112248" Quantity="1" Sideboard="false" Name="Generous Ent" Annotation="0" />
+  <Cards CatID="67028" Quantity="1" Sideboard="false" Name="Flash" Annotation="0" />
+</Deck>
