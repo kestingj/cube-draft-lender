@@ -108,7 +108,7 @@ def main():
             if not matched:
                 print(f"Error: '{card_name}' not found in card_mapping")
         dek_file_path = txt_file.rsplit('.', 1)[0] + '_trade_binder.dek'
-        generate_dek_file(filtered_mapping, os.path.join(draft_name, dek_file_path))
+        generate_dek_file(filtered_mapping, os.path.join(draft_dir, dek_file_path))
         list_card_mappings[txt_file] = filtered_mapping
 
     print(list_card_mappings)

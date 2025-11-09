@@ -1,14 +1,14 @@
 import os
 import sys
 
-from file_helpers import BASE_DIR
+from file_helpers import get_draft_dir
 
-def create_directory(name):
-    name = name.strip()
-    if not name:
-        print("No name provided.")
+def create_directory(draft_name):
+    draft_name = draft_name.strip()
+    if not draft_name:
+        print("No draft_name provided.")
         return
-    dir_path = os.path.join(BASE_DIR, name)
+    dir_path = get_draft_dir(draft_name)
     try:
         os.makedirs(dir_path, exist_ok=False)
         print(f"Directory created at: {dir_path}")
