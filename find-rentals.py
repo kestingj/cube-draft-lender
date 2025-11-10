@@ -2,7 +2,9 @@ import glob
 import os
 import sys
 import xml.etree.ElementTree as ET
-from file_helpers import get_draft_dir, get_owned_path
+from file_helpers import get_draft_dir, get_owned_path, get_rentals_path
+
+from binder import from_dek_file, from_txt_file
 
 def main():
 
@@ -13,9 +15,9 @@ def main():
     draft_name = sys.argv[1]
     draft_dir = get_draft_dir(draft_name)
     # rentals_path = "C:/Users/Joseph Kesting/Documents/DiscordDrafts/rentals.txt"
-    rentals_path = os.path.join(draft_dir, "rentals.txt")
+    rentals_path = get_rentals_path(draft_name)
 
-    # Copy .dektxt files that start with Session_<draft_name>_Deck from Downloads to draft_dir
+    # Copy .txt files that with the patter: Session_<draft_name>_Deck*.txt from Downloads to draft_dir
     downloads_dir = os.path.expanduser(r"~/Downloads")
     pattern = f"Session_{draft_name}_Deck*.txt"
     dest_dir = draft_dir
@@ -25,33 +27,19 @@ def main():
         with open(file_path, "rb") as src, open(dest_path, "wb") as dst:
             dst.write(src.read())
     
-    # Read all .dektxt files from draft_dir and output a list of card names
+    # Read all .txt files from draft_dir and output a list of card names
     drafted = []
     for filename in glob.glob(os.path.join(draft_dir, "*.txt")):
-        with open(filename, "r", encoding="utf-8") as f:
-            drafted_card = []
-            for line in f:
-                card = line.strip()
-                # Remove "1 " prefix and handle special cases
-                if card.startswith("1 "):
-                    card = card[2:]
-                if card == "Fire":
-                    card = "Fire // Ice"
-                # Remove empty lines
-                if card.strip():
-                    drafted_card.append(card)
-            drafted.extend(drafted_card)
+        if os.path.basename(filename) != "rentals.txt":
+            drafted_deck = from_txt_file(filename)
+            drafted.extend(drafted_deck)
 
     print(f"DRAFTED ({len(drafted)}) = {drafted}")
+    
+    owned_binder = from_dek_file(get_owned_path())
 
-    # Extract owned cards from owned.dek (XML), only Cards.name fields
-    owned = parse_dek_file(get_owned_path()).keys()
-
-    def normalize_name(card_name):
-        return card_name.lower().replace("&", "and").strip()
-
-    normalized_owned = set(normalize_name(n) for n in owned)
-    rentals = [card for card in drafted if normalize_name(card) not in normalized_owned]
+    owned_card_names = owned_binder.card_names()
+    rentals = [card for card in drafted if card not in owned_card_names]
 
     print(f"RENTALS ({len(rentals)}) = {rentals}")
     if len(rentals) > 100:
@@ -62,23 +50,6 @@ def main():
     with open(rentals_path, "w", encoding="utf-8") as outfile:
         for line in rentals:
             outfile.write(line + "\n")
-
-def parse_dek_file(filename):
-    """
-    Reads a .dek file and returns a mapping of card name to CatId.
-    """
-    tree = ET.parse(filename)
-    root = tree.getroot()
-    card_map = {}
-    for card in root.findall('Cards'):
-        card_name = card.attrib.get('Name')
-        catid = card.attrib.get('CatID')
-        if card_name in card_map:
-            print(f"Warning: Duplicate card name '{card_name}' found in {filename} (existing CatID: {card_map[card_name]}, new CatID: {catid})")
-        if card_name and catid:
-            card_map[card_name] = catid
-        else: print(f"Warning: Missing Name or CatID in card element: {ET.tostring(card, encoding='unicode')}")
-    return card_map
 
 if __name__ == "__main__":
     main()
