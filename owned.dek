@@ -9,7 +9,6 @@
   <Cards CatID="87065" Quantity="1" Sideboard="false" Name="Feldon of the Third Path" Annotation="0" />
   <Cards CatID="121436" Quantity="1" Sideboard="false" Name="Hedge Maze" Annotation="0" />
   <Cards CatID="126197" Quantity="1" Sideboard="false" Name="Emperor of Bones" Annotation="0" />
-  <Cards CatID="112030" Quantity="1" Sideboard="false" Name="Lórien Revealed" Annotation="0" />
   <Cards CatID="90870" Quantity="1" Sideboard="false" Name="Arid Mesa" Annotation="0" />
   <Cards CatID="105104" Quantity="1" Sideboard="false" Name="Portal to Phyrexia" Annotation="0" />
   <Cards CatID="37388" Quantity="1" Sideboard="false" Name="Preordain" Annotation="0" />
@@ -34,7 +33,6 @@
   <Cards CatID="33933" Quantity="1" Sideboard="false" Name="Tinker" Annotation="0" />
   <Cards CatID="123360" Quantity="1" Sideboard="false" Name="Carnage Interpreter" Annotation="0" />
   <Cards CatID="122028" Quantity="1" Sideboard="false" Name="Shadowy Backstreet" Annotation="0" />
-  <Cards CatID="62561" Quantity="1" Sideboard="false" Name="Walking Ballista" Annotation="0" />
   <Cards CatID="58301" Quantity="1" Sideboard="false" Name="Ulamog, the Ceaseless Hunger" Annotation="0" />
   <Cards CatID="90902" Quantity="1" Sideboard="false" Name="Verdant Catacombs" Annotation="0" />
   <Cards CatID="124397" Quantity="1" Sideboard="false" Name="Lavaspur Boots" Annotation="0" />
@@ -52,10 +50,7 @@
   <Cards CatID="60769" Quantity="1" Sideboard="false" Name="Sneak Attack" Annotation="0" />
   <Cards CatID="139234" Quantity="1" Sideboard="false" Name="Craterhoof Behemoth" Annotation="0" />
   <Cards CatID="36018" Quantity="1" Sideboard="false" Name="Vampiric Tutor" Annotation="0" />
-  <Cards CatID="19179" Quantity="1" Sideboard="false" Name="Bribery" Annotation="0" />
-  <Cards CatID="90963" Quantity="1" Sideboard="false" Name="Upheaval" Annotation="0" />
   <Cards CatID="112030" Quantity="1" Sideboard="false" Name="Lórien Revealed" Annotation="0" />
-  <Cards CatID="112132" Quantity="1" Sideboard="false" Name="Troll of Khazad-dûm" Annotation="0" />
   <Cards CatID="59649" Quantity="1" Sideboard="false" Name="Mother of Runes" Annotation="0" />
   <Cards CatID="114921" Quantity="1" Sideboard="false" Name="Meren of Clan Nel Toth" Annotation="0" />
   <Cards CatID="19301" Quantity="1" Sideboard="false" Name="City of Brass" Annotation="0" />
@@ -144,12 +139,6 @@
   <Cards CatID="90667" Quantity="1" Sideboard="false" Name="Unholy Heat" Annotation="0" />
   <Cards CatID="125849" Quantity="1" Sideboard="false" Name="Springheart Nantuko" Annotation="0" />
   <Cards CatID="62561" Quantity="1" Sideboard="false" Name="Walking Ballista" Annotation="0" />
-  <Cards CatID="122028" Quantity="1" Sideboard="false" Name="Shadowy Backstreet" Annotation="0" />
-  <Cards CatID="124397" Quantity="1" Sideboard="false" Name="Lavaspur Boots" Annotation="0" />
-  <Cards CatID="90878" Quantity="1" Sideboard="false" Name="Marsh Flats" Annotation="0" />
-  <Cards CatID="90516" Quantity="1" Sideboard="false" Name="Thought Monitor" Annotation="0" />
-  <Cards CatID="42616" Quantity="1" Sideboard="false" Name="Liliana of the Veil" Annotation="0" />
-  <Cards CatID="58301" Quantity="1" Sideboard="false" Name="Ulamog, the Ceaseless Hunger" Annotation="0" />
   <Cards CatID="51739" Quantity="1" Sideboard="false" Name="Brimaz, King of Oreskos" Annotation="0" />
   <Cards CatID="87215" Quantity="1" Sideboard="false" Name="Kroxa, Titan of Death's Hunger" Annotation="0" />
   <Cards CatID="44125" Quantity="1" Sideboard="false" Name="Griselbrand" Annotation="0" />
