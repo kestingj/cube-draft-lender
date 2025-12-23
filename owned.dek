@@ -2,6 +2,71 @@
 <Deck xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <NetDeckID>0</NetDeckID>
   <PreconstructedDeckID>0</PreconstructedDeckID>
+  <Cards CatID="72864" Quantity="1" Sideboard="false" Name="Silent Clearing" Annotation="0" />
+  <Cards CatID="37885" Quantity="1" Sideboard="false" Name="Karakas" Annotation="0" />
+  <Cards CatID="142572" Quantity="1" Sideboard="false" Name="Baloth Prime" Annotation="0" />
+  <Cards CatID="72858" Quantity="1" Sideboard="false" Name="Nurturing Peatland" Annotation="0" />
+  <Cards CatID="136643" Quantity="1" Sideboard="false" Name="Riverpyre Verge" Annotation="0" />
+  <Cards CatID="81253" Quantity="1" Sideboard="false" Name="Containment Priest" Annotation="0" />
+  <Cards CatID="130059" Quantity="1" Sideboard="false" Name="Floodfarm Verge" Annotation="0" />
+  <Cards CatID="122010" Quantity="1" Sideboard="false" Name="Commercial District" Annotation="0" />
+  <Cards CatID="145360" Quantity="1" Sideboard="false" Name="Sunbaked Canyon" Annotation="0" />
+  <Cards CatID="126489" Quantity="1" Sideboard="false" Name="Windswept Heath" Annotation="0" />
+  <Cards CatID="138966" Quantity="1" Sideboard="false" Name="Elspeth, Storm Slayer" Annotation="0" />
+  <Cards CatID="61851" Quantity="1" Sideboard="false" Name="Spirebluff Canal" Annotation="0" />
+  <Cards CatID="130651" Quantity="1" Sideboard="false" Name="Gloomlake Verge" Annotation="0" />
+  <Cards CatID="129887" Quantity="1" Sideboard="false" Name="Fear of Missing Out" Annotation="0" />
+  <Cards CatID="35591" Quantity="1" Sideboard="false" Name="Jace, the Mind Sculptor" Annotation="0" />
+  <Cards CatID="145815" Quantity="1" Sideboard="false" Name="Entomb" Annotation="0" />
+  <Cards CatID="122024" Quantity="1" Sideboard="false" Name="Raucous Theater" Annotation="0" />
+  <Cards CatID="64998" Quantity="1" Sideboard="false" Name="Fatal Push" Annotation="0" />
+  <Cards CatID="130654" Quantity="1" Sideboard="false" Name="Hushwood Verge" Annotation="0" />
+  <Cards CatID="126357" Quantity="1" Sideboard="false" Name="Sowing Mycospawn" Annotation="0" />
+  <Cards CatID="136865" Quantity="1" Sideboard="false" Name="Wastewood Verge" Annotation="0" />
+  <Cards CatID="26700" Quantity="1" Sideboard="false" Name="Horizon Canopy" Annotation="0" />
+  <Cards CatID="123599" Quantity="1" Sideboard="false" Name="Reanimate" Annotation="0" />
+  <Cards CatID="119698" Quantity="1" Sideboard="false" Name="Flame of Anor" Annotation="0" />
+  <Cards CatID="104642" Quantity="1" Sideboard="false" Name="Loran of the Third Path" Annotation="0" />
+  <Cards CatID="144332" Quantity="1" Sideboard="false" Name="Library of Alexandria" Annotation="0" />
+  <Cards CatID="124445" Quantity="1" Sideboard="false" Name="Blooming Marsh" Annotation="0" />
+  <Cards CatID="130057" Quantity="1" Sideboard="false" Name="Blazemire Verge" Annotation="0" />
+  <Cards CatID="137149" Quantity="1" Sideboard="false" Name="Bleachbone Verge" Annotation="0" />
+  <Cards CatID="130065" Quantity="1" Sideboard="false" Name="Thornspire Verge" Annotation="0" />
+  <Cards CatID="125311" Quantity="1" Sideboard="false" Name="Legion Extruder" Annotation="0" />
+  <Cards CatID="126525" Quantity="1" Sideboard="false" Name="Sorin of House Markov" Annotation="0" />
+  <Cards CatID="137155" Quantity="1" Sideboard="false" Name="Sunbillow Verge" Annotation="0" />
+  <Cards CatID="72870" Quantity="1" Sideboard="false" Name="Waterlogged Grove" Annotation="0" />
+  <Cards CatID="137159" Quantity="1" Sideboard="false" Name="Willowrush Verge" Annotation="0" />
+  <Cards CatID="124449" Quantity="1" Sideboard="false" Name="Concealed Courtyard" Annotation="0" />
+  <Cards CatID="125985" Quantity="1" Sideboard="false" Name="Sylvan Safekeeper" Annotation="0" />
+  <Cards CatID="79446" Quantity="1" Sideboard="false" Name="Underworld Breach" Annotation="0" />
+  <Cards CatID="106711" Quantity="1" Sideboard="false" Name="Blackcleave Cliffs" Annotation="0" />
+  <Cards CatID="39587" Quantity="1" Sideboard="false" Name="Blightsteel Colossus" Annotation="0" />
+  <Cards CatID="124447" Quantity="1" Sideboard="false" Name="Botanical Sanctum" Annotation="0" />
+  <Cards CatID="106715" Quantity="1" Sideboard="false" Name="Darkslick Shores" Annotation="0" />
+  <Cards CatID="136547" Quantity="1" Sideboard="false" Name="Loot, the Pathfinder" Annotation="0" />
+  <Cards CatID="36682" Quantity="1" Sideboard="false" Name="Oust" Annotation="0" />
+  <Cards CatID="91015" Quantity="1" Sideboard="false" Name="Vindicate" Annotation="0" />
+  <Cards CatID="61855" Quantity="1" Sideboard="false" Name="Inspiring Vantage" Annotation="0" />
+  <Cards CatID="106097" Quantity="1" Sideboard="false" Name="Razorverge Thicket" Annotation="0" />
+  <Cards CatID="106731" Quantity="1" Sideboard="false" Name="Seachrome Coast" Annotation="0" />
+  <Cards CatID="139281" Quantity="1" Sideboard="false" Name="Surrak, Elusive Hunter" Annotation="0" />
+  <Cards CatID="21519" Quantity="1" Sideboard="false" Name="Through the Breach" Annotation="0" />
+  <Cards CatID="106713" Quantity="1" Sideboard="false" Name="Copperline Gorge" Annotation="0" />
+  <Cards CatID="105018" Quantity="1" Sideboard="false" Name="Haywire Mite" Annotation="0" />
+  <Cards CatID="109326" Quantity="1" Sideboard="false" Name="Lutri, the Spellchaser" Annotation="0" />
+  <Cards CatID="53153" Quantity="1" Sideboard="false" Name="Brain Freeze" Annotation="0" />
+  <Cards CatID="102654" Quantity="1" Sideboard="false" Name="Cut Down" Annotation="0" />
+  <Cards CatID="71728" Quantity="1" Sideboard="false" Name="Narset, Parter of Veils" Annotation="0" />
+  <Cards CatID="26660" Quantity="1" Sideboard="false" Name="Sword of the Meek" Annotation="0" />
+  <Cards CatID="52797" Quantity="1" Sideboard="false" Name="Tendrils of Agony" Annotation="0" />
+  <Cards CatID="32420" Quantity="1" Sideboard="false" Name="Thopter Foundry" Annotation="0" />
+  <Cards CatID="90525" Quantity="1" Sideboard="false" Name="Bone Shards" Annotation="0" />
+  <Cards CatID="134548" Quantity="1" Sideboard="false" Name="Duress" Annotation="0" />
+  <Cards CatID="39976" Quantity="1" Sideboard="false" Name="Gitaxian Probe" Annotation="0" />
+  <Cards CatID="90467" Quantity="1" Sideboard="false" Name="Lose Focus" Annotation="0" />
+  <Cards CatID="60923" Quantity="1" Sideboard="false" Name="Memory Lapse" Annotation="0" />
+  <Cards CatID="20874" Quantity="1" Sideboard="false" Name="Pentad Prism" Annotation="0" />
   <Cards CatID="100608" Quantity="1" Sideboard="false" Name="Minsc &amp; Boo, Timeless Heroes" Annotation="0" />
   <Cards CatID="122012" Quantity="1" Sideboard="false" Name="Elegant Parlor" Annotation="0" />
   <Cards CatID="119784" Quantity="1" Sideboard="false" Name="The One Ring" Annotation="0" />
