@@ -21,7 +21,10 @@ Usage:
 - owned.dek: one owned card name per line (defaults to ./owned.dek).
 - --unique: treat the input card list as a set (one copy per name).
 - --threshold: threshold for "more than" (default 100).
+- --output-file: path to write missing card names (one per line). If omitted, no file is written.
 """
+
+
 
 def read_lines(path: str) -> List[str]:
         try:
@@ -68,6 +71,15 @@ def hypergeom_expected_sd(N: int, K: int, n: int):
         var = n * p * (1 - p) * (N - n) / (N - 1)
         return mean, math.sqrt(var)
 
+def write_names_to_file(path: str, names: Set[str]) -> None:
+        try:
+                with open(path, "w", encoding="utf-8") as f:
+                        for name in sorted(names):
+                                f.write(name + "\n")
+        except OSError as e:
+                print(f"Error writing to {path}: {e}", file=sys.stderr)
+                sys.exit(2)
+
 def main():
         p = argparse.ArgumentParser(description="Owned card stats + hypergeometric probabilities")
         p.add_argument("cards", help="text file with one card name per line")
@@ -75,6 +87,7 @@ def main():
         p.add_argument("--unique", action="store_true", help="treat cards file as a set (unique names)")
         p.add_argument("--threshold", type=int, default=100, help="threshold for 'more than' (default 100)")
         p.add_argument("--samples", nargs="*", type=int, default=[180,270,360], help="sample sizes to evaluate")
+        p.add_argument("--output-file", "-o", default=None, help="path to write missing card names (one per line). If omitted, no file is written.")
         args = p.parse_args()
 
         cards_list = read_lines(args.cards)
@@ -122,6 +135,14 @@ def main():
                 print(f"Sample n={n}: expected non-owned = {mean:.2f}, sd = {sd:.2f}")
                 print(f"  P( > {threshold} non-owned ) = {prob:.6f}")
         print("")
+
+        not_owned_set = {name for name in population if name not in owned_set}
+
+        
+
+        if args.output_file:
+                write_names_to_file(args.output_file, not_owned_set)
+                print(f"Wrote {len(not_owned_set)} names to {args.output_file}")
 
 if __name__ == "__main__":
         main()
